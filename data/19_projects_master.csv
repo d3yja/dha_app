@@ -1,0 +1,13 @@
+﻿project_id,project,type,status,plot_categories,site_office,contact_email,special_rules,website_link,source,data_status
+PRJ-01,DHA Phases I-V,Residential & commercial (developed),Developed / occupied,"Residential plots/houses, commercial plots, shops, apartments","Head Office, Phase I",info@dhai-r.com.pk,Standard transfer procedures; jurisdiction by phase,https://www.dhai-r.com.pk/phase-list/,Phase list page,needs_confirmation
+PRJ-02,DHA Phase VI,Residential,Unknown,,,,Ph 6 & 7 requisition form,https://www.dhai-r.com.pk/phase-list/,Phase list page,missing
+PRJ-03,DHA Phase VII,Residential,Under development / booking,,,,Registration numbers; deposit slip affidavits,https://www.dhai-r.com.pk/phase-list/,Valley downloads page,missing
+PRJ-04,DHA Valley,JV project (residential),Allotment certificates / conversion to allotment letters,"5 marla, 8 marla, OS block, 4/8 marla commercial, shops","DHA Valley site office, Expressway near Ph-VI",dhavalley@dhai-r.com.pk,"File opening, certificate endorsement, conversion procedures; separate T&R desk",https://www.dhai-r.com.pk/valley-downloads-list/,Valley downloads; contact-no page,current
+PRJ-05,DHA Overseas Block,Valley sub-project,,5 and 8 marla (fees in USD),DHA Valley site office,info@dhai-r.com.pk,,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+PRJ-06,DHA Homes,Built homes,,Homes,DHA Valley site office,dhahomes@dhai-r.com.pk,Duplicate possession letter rule in Byelaws 6.4; certificate verification revised fees not applicable,,contact-no page; Byelaws,needs_confirmation
+PRJ-07,DHA Commercial Avenue,Commercial,,Commercial,DHA Valley site office,dhacomave@dhai-r.com.pk,Certificate verification revised fees not applicable,,contact-no page,needs_confirmation
+PRJ-08,Margalla Enclave,Residential,Ballot,,,margallaenclave@dhai-r.com.pk,Ballot results page,https://www.dhai-r.com.pk/margalla-enclave-ballot/,Home page; contact-no page,needs_confirmation
+PRJ-09,Margalla Orchards,Residential,Plot conversion process,,,margallaorchards@dhai-r.com.pk,Conversion process PDF (not yet downloaded),https://www.dhai-r.com.pk/static/Margallaorchards/Margalla-Orchards-Conversion-Process.pdf,Home page,needs_confirmation
+PRJ-10,Pine Hills,Residential / golf,,,,,Separate security office,,contact-no page,needs_confirmation
+PRJ-11,DHA Askari Towers,Apartments,,Apartments,,,E-Tag not billed through utility bill,,DHA_resident.pdf,needs_confirmation
+PRJ-12,DHA Expressway commercial corridor,Commercial,Rehabilitation,898 commercial plots,,,,,Other Activities page,needs_confirmation

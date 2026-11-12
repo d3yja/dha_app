@@ -1,0 +1,52 @@
+﻿std_id,category,plot_size_from_sqyd,plot_size_to_sqyd,parameter,value,unit,notes,bylaw_clause,status
+BST-001,Residential covered area,0,200,Max ground floor covered area (incl. car porch),85,% of plot,,8.54.1,current
+BST-002,Residential covered area,0,200,Max first floor covered area,Footprint of GF area,,,8.54.1,current
+BST-003,Residential setbacks,0,200,Front setback (COS),5,ft,1 kanal+ plots: front setback can be relaxed up to 2 ft by paying charges (Ch XIV),8.54.1,current
+BST-004,Residential setbacks,0,200,Rear setback,3,ft,,8.54.1,current
+BST-005,Residential setbacks,0,200,Side setback (car porch side),0,ft,0 = nil,8.54.1,current
+BST-006,Residential setbacks,0,200,Side setback (other side),0,ft,0 = nil,8.54.1,current
+BST-007,Residential covered area,201,249,Max ground floor covered area (incl. car porch),75,% of plot,,8.54.2,current
+BST-008,Residential covered area,201,249,Max first floor covered area,Footprint of GF area,,,8.54.2,current
+BST-009,Residential setbacks,201,249,Front setback (COS),7,ft,1 kanal+ plots: front setback can be relaxed up to 2 ft by paying charges (Ch XIV),8.54.2,current
+BST-010,Residential setbacks,201,249,Rear setback,3,ft,,8.54.2,current
+BST-011,Residential setbacks,201,249,Side setback (car porch side),3,ft,0 = nil,8.54.2,current
+BST-012,Residential setbacks,201,249,Side setback (other side),0,ft,0 = nil,8.54.2,current
+BST-013,Residential covered area,250,399,Max ground floor covered area (incl. car porch),70,% of plot,,8.54.3,current
+BST-014,Residential covered area,250,399,Max first floor covered area,"90% of GF incl. car porch, or footprint of GF less car porch",,,8.54.3,current
+BST-015,Residential setbacks,250,399,Front setback (COS),10,ft,1 kanal+ plots: front setback can be relaxed up to 2 ft by paying charges (Ch XIV),8.54.3,current
+BST-016,Residential setbacks,250,399,Rear setback,3,ft,,8.54.3,current
+BST-017,Residential setbacks,250,399,Side setback (car porch side),3,ft,0 = nil,8.54.3,current
+BST-018,Residential setbacks,250,399,Side setback (other side),3,ft,0 = nil,8.54.3,current
+BST-019,Residential covered area,400,600,Max ground floor covered area (incl. car porch),68,% of plot,,8.54.4,needs_confirmation
+BST-020,Residential covered area,400,600,Max first floor covered area,As per 8.54.3 (merged cell - confirm),,,8.54.4,needs_confirmation
+BST-021,Residential setbacks,400,600,Front setback (COS),15,ft,1 kanal+ plots: front setback can be relaxed up to 2 ft by paying charges (Ch XIV),8.54.4,current
+BST-022,Residential setbacks,400,600,Rear setback,5,ft,,8.54.4,current
+BST-023,Residential setbacks,400,600,Side setback (car porch side),5,ft,0 = nil,8.54.4,current
+BST-024,Residential setbacks,400,600,Side setback (other side),5,ft,0 = nil,8.54.4,current
+BST-025,Residential covered area,601,800,Max ground floor covered area (incl. car porch),,% of plot,601-800 value not legible in text extraction,8.54.5,needs_confirmation
+BST-026,Residential covered area,601,800,Max first floor covered area,As per 8.54.3 (merged cell - confirm),,,8.54.5,needs_confirmation
+BST-027,Residential setbacks,601,800,Front setback (COS),18,ft,1 kanal+ plots: front setback can be relaxed up to 2 ft by paying charges (Ch XIV),8.54.5,current
+BST-028,Residential setbacks,601,800,Rear setback,5,ft,,8.54.5,current
+BST-029,Residential setbacks,601,800,Side setback (car porch side),5,ft,0 = nil,8.54.5,current
+BST-030,Residential setbacks,601,800,Side setback (other side),5,ft,0 = nil,8.54.5,current
+BST-031,Residential covered area,801,,Max ground floor covered area (incl. car porch),60,% of plot,,8.54.6,needs_confirmation
+BST-032,Residential covered area,801,,Max first floor covered area,As per 8.54.3 (merged cell - confirm),,,8.54.6,needs_confirmation
+BST-033,Residential setbacks,801,,Front setback (COS),20,ft,1 kanal+ plots: front setback can be relaxed up to 2 ft by paying charges (Ch XIV),8.54.6,current
+BST-034,Residential setbacks,801,,Rear setback,5,ft,,8.54.6,current
+BST-035,Residential setbacks,801,,Side setback (car porch side),5,ft,0 = nil,8.54.6,current
+BST-036,Residential setbacks,801,,Side setback (other side),5,ft,0 = nil,8.54.6,current
+BST-037,Residential general,,,Maximum number of storeys,2,storeys,"Ground + first, counted from reference street",8.56.2,current
+BST-038,Residential general,,,Maximum building height incl. water tank / mumty,37,ft,"From reference point; 1 ft excess can be regularized (Rs 17,000/ft)",8.56.3,current
+BST-039,Residential general,,,Minimum habitable room area,80,sq ft,,8.56.1,current
+BST-040,Residential general,,,Fire extinguishers,2,units,Minimum one in car porch and one in kitchen,8.56.18,current
+BST-041,Construction rules,,,Construction working hours - winter,19:00,time,Up to 7 pm,7.3.1,current
+BST-042,Construction rules,,,Construction working hours - summer,21:00,time,Up to 9 pm,7.3.2,current
+BST-043,Construction rules,,,Monsoon restriction on excavation / demarcation,15 Jul - 15 Sep,date range,No excavation or demarcation for new construction,8.19,current
+BST-044,Construction rules,,,Green cloth on under-construction buildings,Mandatory,,Wef 14 Jul 2023; CGI sheets 100% front and sides adjoining vacant plots,Ch VII / Other Activities page,current
+BST-045,Construction rules,,,Construction completion period,3,years,From first drawing approval; monthly fine after,15.3.14,current
+BST-046,Structural,,,Minimum concrete compressive strength,3000,psi,At 28 days,8.53.1.1.4,current
+BST-047,Structural,,,Minimum reinforcing steel yield strength,60000,psi,,8.53.1.1.5,current
+BST-048,Structural,,,Minimum brick crushing strength,1500,psi,Absorption up to 20%,8.53.1.1.1,current
+BST-049,Structural,,,Minimum RCC column size at critical sections,9 x 9,inches,,8.53.2,current
+BST-050,Structural,,,Plinth and lintel band depth,9,inches (min),,8.53.1.4,current
+BST-051,Structural,,,Hollow block masonry,Prohibited,,Allowed only in frame structure design,8.53.1.1.6,current

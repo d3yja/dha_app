@@ -1,0 +1,26 @@
+﻿reg_id,item,property_type,max_allowed_deviation,amount,rate_basis,beyond_limit,bylaw_clause,status
+REG-01,Excess building height,Residential,1 ft above 37 ft,17000,per_ft,Demolished at owner's risk and cost,14.1,current
+REG-02,Excess building height,Commercial,1 ft above allowable limit,500000,per_ft,Demolished at owner's risk and cost,14.2,current
+REG-03,Excess projection of shades,Residential,6 inches,1250,per_sqft,Demolished,14.3,current
+REG-04,Extension of shade,Commercial,6 inches,2500,per_sqft_along_full_length,Demolished,14.4,current
+REG-05,Front setback relaxation (standard plots),Residential,Up to 1 ft,250000,fixed,,14.5,current
+REG-06,Front setback relaxation (standard plots),Residential,Up to 2 ft,500000,fixed,Also 1 kanal+ plots per 8.54.7.2,14.5,current
+REG-07,Construction in front setback (column / porch area),Residential,6 inches,2000,per_sqft,Demolished,14.6,current
+REG-08,Construction in side / rear setback,Residential,6 inches,1500,per_sqft,Demolished,14.7,current
+REG-09,Unauthorized construction at mumty,Residential,50 sq ft,3000,per_sqft,Demolished,14.8,current
+REG-10,Unauthorized construction at roof top,Commercial,"20% of allowed area, up to 50% of plot area",2500,per_sqft,Demolished,14.9,current
+REG-11,Increasing width of mumty,Residential,2 ft,1500,per_inch,Demolished,14.10,current
+REG-12,Increasing height of mumty,Residential,1 ft,15000,per_ft,Demolished,14.11,current
+REG-13,Increase in height of ramp,Residential,6 inches,25000,fixed,Demolished,14.12,current
+REG-14,Increase in height of boundary wall,Residential,Up to 9 ft,200,per_sqft,Demolished,14.13,current
+REG-15,Increase in height of parapet wall,Residential,Up to 6 ft,200,per_sqft,Demolished,14.14,current
+REG-16,Increase in height of overhead water tank,Residential,1 ft,15000,per_ft,Demolished,14.16,current
+REG-17,Increase in width of main gate,Residential,Up to 7 ft from allowable limit,7000,per_running_ft,Demolished,14.17,current
+REG-18,Increase in width of 2nd gate,Residential,Up to 2 ft from allowable limit,7000,per_running_ft,Demolished,14.18,current
+REG-19,Increase in width of wicket gate in extra land,Residential,Up to 14 ft,25000,per_running_ft,Demolished,14.19,current
+REG-20,Less distance of spiral stair from rear boundary wall,Residential,6 inches,1000,per_sqft,Demolished,14.20,current
+REG-21,Revalidation of drawing (construction not started within 3 months),Residential,,15000,fixed,,14.21,current
+REG-22,Increase in height of setback level,Residential,12 inches,15,per_sqft_per_inch_rise,Demolished,14.22,current
+REG-23,Construction on rear / side shades,Commercial,,1000,per_sqft,Demolished,14.23,current
+REG-24,Revalidation of drawing (construction not started within 3 months),Commercial,,25000,fixed,,14.24,current
+REG-25,Increase in height of parapet wall,Commercial,Up to 6 ft,400,per_sqft,Demolished,14.25,current

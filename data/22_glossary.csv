@@ -1,0 +1,59 @@
+﻿term,full_form,meaning,urdu_or_roman_urdu,category
+DHAI-R,Defence Housing Authority Islamabad-Rawalpindi,The housing authority,ڈی ایچ اے,Organisation
+Dte,Directorate,A department of DHA,,Organisation
+T&R / Tfr & Rec,Transfer & Record Directorate,"Handles transfers, membership, allotment letters",,Organisation
+Fin Dte,Finance Directorate,"Handles dues, NDC, payments",,Organisation
+BC / Bldg Con,Building Control,Approves drawings and construction,,Organisation
+TP,Town Planning,"Site plans, possession, planning",,Organisation
+BD,Business Development,"DHA-owned shops, commercial activity",,Organisation
+SCM,Supply Chain Management,Supplier registration and procurement,,Organisation
+Tech & CE Br,Technical & Chief Engineer Branch,Engineering works and contractor registration,,Organisation
+CSO / CSS,Chief Security Officer / Chief Security Supervisor,Phase security heads,,Organisation
+PD,Project Director,"Development and services (water, sewerage) in a phase",,Organisation
+JV,Joint Venture,Projects with partners (e.g. DHA Valley),,Organisation
+UAN,Universal Access Number,051-111-555-400,,Contact
+Tfr,Transfer,Change of ownership of a plot/property,منتقلی / ٹرانسفر,Transfer
+NDC,No Demand Certificate,Certificate that all dues and transfer fee are paid,,Transfer
+SOD,Statement of Dues,Finance statement of amounts payable before transfer,,Transfer
+MS / MS No,Membership / Membership Number,Member's DHA membership for a plot,ممبرشپ نمبر,Membership
+NOK,Next of Kin,Nominated relative of member,,Membership
+Almt Ltr / AL,Allotment Letter,Ownership document issued by DHA,الاٹمنٹ لیٹر,Allotment
+Almt Cert,Allotment Certificate,Certificate issued for DHA Valley / own-project files before conversion to allotment letter,,Allotment
+Allocation Letter,Allocation Letter,Letter allocating a specific plot number,,Allotment
+Open file / open certificate,Open allotment certificate,File not yet assigned a specific plot,اوپن فائل,Allotment
+GPA,General Power of Attorney,Authority given by owner (abroad) to an attorney to sell,مختار عام,Legal
+SPA,Special Power of Attorney,"Authority for a specific act, e.g. purchase",مختار خاص,Legal
+Hiba,Gift,Transfer of property as a gift,ہبہ,Legal
+Varasat Nama,Inheritance certificate,Document from Tehsildar listing legal heirs,وراثت نامہ,Legal
+Succession Certificate,Succession Certificate,Court document establishing legal heirs,,Legal
+FRC,Family Registration Certificate,NADRA certificate listing family members,,Legal
+Oath Commissioner,Oath Commissioner,Officer who attests affidavits,اوتھ کمشنر,Legal
+Judicial stamp paper,Judicial stamp paper,Stamp paper on which affidavits/deeds are typed,اسٹامپ پیپر,Legal
+Caveat Emptor,Buyer beware,Warning that buyers must verify property before purchase,,Legal
+NEC,Non Encumbrance Certificate,Certificate that property is free of encumbrance (for mortgage),,Finance
+Lien marking,Lien marking,Recording a bank's mortgage interest on the plot,,Finance
+CPR,Computerized Payment Receipt,FBR tax payment receipt (e.g. 236C/236K),,Finance
+PSID,Payment Slip ID,FBR payment slip identifier,,Finance
+236C / 236K,Income Tax Ordinance sections,Advance tax on sale (236C) and purchase (236K) of property,,Finance
+Pay order / Bank draft,Pay order / Demand draft,Bank instruments accepted by DHA (no cash or cheque),,Finance
+SOC,Schedule of Charges,DHA's official fee schedule,,Finance
+NUC,Non Utilization Charges,Annual charges on plots not constructed after possession,,Finance
+Marla,Marla,Unit of area; DHA uses 1 marla = 25 sq yd,مرلہ,Units
+Kanal,Kanal,20 marla = 500 sq yd,کنال,Units
+Sq yd,Square yard,Unit of plot area,مربع گز,Units
+COS,Compulsory Open Space,Setback area that must be left open,,Construction
+Mumty,Mumty,Roof-top stair cover structure,ممٹی,Construction
+DPC,Damp Proof Course,Moisture barrier at plinth level,,Construction
+CGI sheets,Corrugated Galvanised Iron sheets,Sheets covering front of construction sites,,Construction
+Green cloth,Green safety net/cloth,Mandatory cover on under-construction buildings,,Construction
+Site plan,Site plan,Town Planning drawing of the plot with dimensions and services,سائٹ پلان,Construction
+Demarcation,Demarcation,Marking plot boundaries on ground,حد بندی,Construction
+Completion Certificate,Completion Certificate,Certificate that construction matches approved drawings,,Construction
+PEC / PCATP,Pakistan Engineering Council / Pakistan Council of Architects and Town Planners,Professional registration bodies,,Registration
+E-Tag,Electronic vehicle tag,RFID tag for automatic gate entry,ای ٹیگ,Security
+QRF,Quick Reaction Force,Security response team,,Security
+HASS,Home alarm / security system,Home alarm linked to security (false alarms fined),,Security
+ACBL / ACKBL,Askari Commercial Bank Ltd,Bank used for DHA payments,,Finance
+W&R Dte,Welfare & Rehabilitation Directorate (GHQ),Issues transfer letters for GHQ-allotted plots,,Organisation
+Shuhada,Martyrs,Families of martyrs get concessional fees,شہداء,Membership
+JCO / NCO,Junior / Non-Commissioned Officer,Military ranks with concessional fees,,Membership

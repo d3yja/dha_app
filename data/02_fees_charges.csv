@@ -1,0 +1,182 @@
+﻿fee_id,category,fee_name,property_type,owner_type,transaction_type,project_or_phase,size_from,size_to,size_unit,amount,rate_basis,minimum_amount,currency,conditions,service_time,validity,effective_from,effective_to,reference,status
+MS-RES-125,membership_fee,Membership fee,residential,individual,,All,0,125,sq yd,30000,fixed,,PKR,"Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-RES-250,membership_fee,Membership fee,residential,individual,,All,126,250,sq yd,50000,fixed,,PKR,"Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-RES-500,membership_fee,Membership fee,residential,individual,,All,251,500,sq yd,75000,fixed,,PKR,"Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-RES-1000,membership_fee,Membership fee,residential,individual,,All,501,1000,sq yd,100000,fixed,,PKR,"Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-RES-1000+,membership_fee,Membership fee,residential,individual,,All,1001,,sq yd,110000,fixed,,PKR,"Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-RES-CORP,membership_fee,Membership fee,residential,corporate,,All,,,sq yd,150000,fixed,,PKR,"Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-COM-100,membership_fee,Membership fee,commercial,individual,,All,0,100,sq yd,75000,fixed,,PKR,"Up to 4 marla; Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-COM-200,membership_fee,Membership fee,commercial,individual,,All,101,200,sq yd,100000,fixed,,PKR,"Up to 8 marla; Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-COM-500,membership_fee,Membership fee,commercial,individual,,All,201,500,sq yd,150000,fixed,,PKR,"Up to 20 marla; Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-COM-500+,membership_fee,Membership fee,commercial,individual,,All,501,,sq yd,10000,per_marla,,PKR,"Above 20 marla; Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-SHOP,membership_fee,Membership fee,shop,individual,,All,,,sq yd,75000,fixed,,PKR,"Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-COM-CORP-20M,membership_fee,Membership fee,commercial,corporate,,All,0,500,sq yd,200000,fixed,,PKR,"Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-COM-CORP-20M+,membership_fee,Membership fee,commercial,corporate,,All,501,,sq yd,10000,per_marla,,PKR,"Applies to: first_allotment, sale",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-LEGALHEIR,membership_fee,Membership fee,any,any,,All,,,,6000,fixed,,PKR,"Applies to: legal_heir, allotment_to_widow_of_shuhada_jco",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-GIFT-RULE,membership_fee,Membership fee,any,any,,All,,,,,rule,,PKR,Same membership fee as sale/transfer; Applies to: gift,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-SERVICE-BENEFIT,membership_fee_modifier,Membership fee modifier,any,any,,All,,,,50,percent_of_normal_fee,,PKR,"50% of normal membership fee, all sizes. Civilian rates apply if a serving defence officer acquires from the market.; Applies to: serving_defence_officer, serving_dha_employee",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-JCO-SALE,membership_fee_modifier,Membership fee modifier,any,any,,All,,,,25000,fixed,,PKR,"In case of sale by JCOs, Rs 25,000 recovered on account of MS fee",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MS-EXTRA-PURCHASER,membership_fee_modifier,Membership fee modifier,any,any,,All,,,,10000,per_additional_purchaser,,PKR,"If more than one purchaser, additional MS fee Rs 10,000 for each additional member",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MASJID-RES-JCO,masjid_fund,Masjid fund,residential,jco_nco_widow_of_shuhada,,All,,,,5000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MASJID-RES,masjid_fund,Masjid fund,residential,individual_or_corporate,,All,,,,12000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MASJID-COM,masjid_fund,Masjid fund,commercial,any,,All,,,,6000,per_marla,,PKR,Commercial plots / shops / plaza,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MASJID-RULES,masjid_fund,Masjid fund,any,any,,All,,,,,rule,,PKR,"Non-Muslims are exempt. Same fee for legal heir, gift transfer and first allotment.",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-RES-NOR-125,transfer_fee,Transfer fee,residential,individual,normal,All,0,125,sq yd,30000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-RES-NOR-200,transfer_fee,Transfer fee,residential,individual,normal,All,126,200,sq yd,35000,fixed,,PKR,"SOC note: 'Up to 200 Sq.Yd Rs 35,000 will be charged'. Interpreted as a 126-200 sq yd band.",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,needs_confirmation
+TFR-RES-NOR-250,transfer_fee,Transfer fee,residential,individual,normal,All,201,250,sq yd,60000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-RES-NOR-500,transfer_fee,Transfer fee,residential,individual,normal,All,251,500,sq yd,100000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-RES-NOR-1000,transfer_fee,Transfer fee,residential,individual,normal,All,501,1000,sq yd,125000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-RES-NOR-1500,transfer_fee,Transfer fee,residential,individual,normal,All,1001,1500,sq yd,150000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-RES-NOR-1500+,transfer_fee,Transfer fee,residential,individual,normal,All,1501,,sq yd,,rule,,PKR,Increases proportionately in the above ratio (Rs 100 per sq yd at the 1500 sq yd band),,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,needs_confirmation
+TFR-APT-NOR,transfer_fee,Transfer fee,apartment,individual,normal,All,,,,25,per_sqft,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-SHOP-NOR,transfer_fee,Transfer fee,shop,individual,normal,All,,500,sq ft,175,per_sqft,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-RATIO-GIFT,transfer_fee_modifier,Transfer fee modifier,any,any,gift,All,,,,50,percent_of_normal_fee,,PKR,"Gift / joint transfer = 50% of normal transfer fee (residential, apartment, shop)",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-RATIO-JOINT,transfer_fee_modifier,Transfer fee modifier,any,any,joint,All,,,,50,percent_of_normal_fee,,PKR,Gift / joint transfer = 50% of normal transfer fee,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-RATIO-HEIR,transfer_fee_modifier,Transfer fee modifier,any,any,legal_heir,All,,,,20,percent_of_normal_fee,,PKR,Legal heir transfer = 20% of normal transfer fee,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-JOINT-SHARE,transfer_fee_modifier,Transfer fee modifier,any,any,joint_share_sale,All,,,,,rule,,PKR,"If one joint owner sells their share to the other, transfer fee is levied according to the share sold. No MS fee; only Masjid and documentation fee.",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-CORP-RES,transfer_fee,Transfer fee,residential,corporate,any,All,,,,200000,fixed,,PKR,All sizes,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-CORP-COM,transfer_fee,Transfer fee,commercial,corporate,any,All,,,,60000,per_marla,350000,PKR,"Rs 60,000 per 25 sq yd or Rs 350,000, whichever is higher",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-COM-NOR,transfer_fee,Transfer fee,commercial,individual,normal,All,,,,40000,per_marla,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-COM-GIFT,transfer_fee,Transfer fee,commercial,individual,gift,All,,,,20000,per_marla,,PKR,Also joint transfer (50% of normal),,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+TFR-COM-HEIR,transfer_fee,Transfer fee,commercial,individual,legal_heir,All,,,,8000,per_marla,,PKR,20% of normal,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+URG-TFR-IND,urgent_transfer_fee,Urgent transfer fee,any,individual,,All,,,,50000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+URG-TFR-IND-OLD1,urgent_transfer_fee,Urgent transfer fee,any,individual,,All,,,,35000,fixed,,PKR,Within 1 day (6 working hours),,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+URG-TFR-IND-OLD2,urgent_transfer_fee,Urgent transfer fee,any,individual,,All,,,,15000,fixed,,PKR,Within 2 days (48 working hours),,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+URG-TFR-CORP,urgent_transfer_fee,Urgent transfer fee,any,corporate,,All,,,,60000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+URG-AL-24H,urgent_allotment_letter,Urgent allotment letter,any,any,,All,,,,30000,fixed,,PKR,,24 hours,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+URG-AL-24H-OLD1,urgent_allotment_letter,Urgent allotment letter,any,any,,All,,,,10000,fixed,,PKR,Older value - do not quote as current,,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+URG-AL-24H-OLD2,urgent_allotment_letter,Urgent allotment letter,any,any,,All,,,,10000,fixed,,PKR,Older value - do not quote as current,,,2018-07-01,2022-12-01,7.-All-Transfer-Procedure.doc,superseded
+URG-AL-72H,urgent_allotment_letter,Urgent allotment letter,any,any,,All,,,,15000,fixed,,PKR,,72 hours,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+URG-AL-72H-OLD1,urgent_allotment_letter,Urgent allotment letter,any,any,,All,,,,5000,fixed,,PKR,Older value - do not quote as current,,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+URG-AL-72H-OLD2,urgent_allotment_letter,Urgent allotment letter,any,any,,All,,,,5000,fixed,,PKR,Older value - do not quote as current,,,2018-07-01,2022-12-01,7.-All-Transfer-Procedure.doc,superseded
+OUTSTN-SNR-LOCAL,outstation_transfer_fee,Outstation transfer fee,any,disabled_or_senior_65plus,,All,,,,25000,fixed,,PKR,"Travelling, boarding and lodging of transfer team borne by member; Station: islamabad_rawalpindi",,,2026-08-06,,Out-Sta-Tfr-6th-aug-2026.pdf,current
+OUTSTN-SNR-OTHER,outstation_transfer_fee,Outstation transfer fee,any,disabled_or_senior_65plus,,All,,,,60000,fixed,,PKR,"Travelling, boarding and lodging of transfer team borne by member; Station: other_cities",,,2026-08-06,,Out-Sta-Tfr-6th-aug-2026.pdf,current
+OUTSTN-NOR-LOCAL,outstation_transfer_fee,Outstation transfer fee,any,individual,,All,,,,35000,fixed,,PKR,"Travelling, boarding and lodging of transfer team borne by member; Station: islamabad_rawalpindi",,,2026-08-06,,Out-Sta-Tfr-6th-aug-2026.pdf,current
+OUTSTN-NOR-LOCAL-OLD1,outstation_transfer_fee,Outstation transfer fee,any,individual,,All,,,,50000,fixed,,PKR,Older value - do not quote as current,,,2022-12-01,2026-08-06,Revised_charges_W.E.F_Dec_-2022.pdf,superseded
+OUTSTN-NOR-LOCAL-OLD2,outstation_transfer_fee,Outstation transfer fee,any,individual,,All,,,,15000,fixed,,PKR,Older value - do not quote as current,,,2018-07-01,2026-08-06,7.-All-Transfer-Procedure.doc,superseded
+OUTSTN-NOR-LOCAL-OLD3,outstation_transfer_fee,Outstation transfer fee,any,individual,,All,,,,15000,fixed,,PKR,Older value - do not quote as current,,,,2026-08-06,https://www.dhai-r.com.pk/faqs/,superseded
+OUTSTN-NOR-OTHER,outstation_transfer_fee,Outstation transfer fee,any,individual,,All,,,,70000,fixed,,PKR,"Travelling, boarding and lodging of transfer team borne by member; Station: other_cities",,,2026-08-06,,Out-Sta-Tfr-6th-aug-2026.pdf,current
+OUTSTN-NOR-OTHER-OLD1,outstation_transfer_fee,Outstation transfer fee,any,individual,,All,,,,100000,fixed,,PKR,Older value - do not quote as current,,,2022-12-01,2026-08-06,Revised_charges_W.E.F_Dec_-2022.pdf,superseded
+OUTSTN-CORP,outstation_transfer_fee,Outstation transfer fee,any,corporate,,All,,,,150000,fixed,,PKR,Aug 2026 notice does not mention corporate bodies; SOC 2022 value retained; Station: any,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,needs_confirmation
+NUC-RES-250,non_utilization_charges,Non utilization charges,residential,individual_or_corporate,,All,0,250,sq yd,20000,per_year,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+NUC-RES-500,non_utilization_charges,Non utilization charges,residential,individual_or_corporate,,All,251,500,sq yd,25000,per_year,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+NUC-RES-1000,non_utilization_charges,Non utilization charges,residential,individual_or_corporate,,All,501,1000,sq yd,25000,per_year,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+NUC-RES-1000+,non_utilization_charges,Non utilization charges,residential,individual_or_corporate,,All,1001,,sq yd,30000,per_year,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+NUC-COM-IND,non_utilization_charges,Non utilization charges,commercial,individual,,All,,,,20000,per_marla_per_year,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+NUC-COM-CORP,non_utilization_charges,Non utilization charges,commercial,corporate,,All,,,,25000,per_marla_per_year,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+NUC-RULE,non_utilization_charges,Non utilization charges,any,any,,All,,,,,rule,,PKR,Applicable from 01 Dec 2022. Amounts payable before this date recovered as per SOC 2011 & SOC 2021. Not applicable to shops.,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+AMAL-RES-500,amalgamation_fee,Amalgamation fee,residential,any,,All,250,500,sq yd,200000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+AMAL-RES-1000,amalgamation_fee,Amalgamation fee,residential,any,,All,501,1000,sq yd,450000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+AMAL-RES-1500,amalgamation_fee,Amalgamation fee,residential,any,,All,1001,1500,sq yd,650000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+AMAL-RES-1500+,amalgamation_fee,Amalgamation fee,residential,any,,All,1501,,sq yd,1000000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+AMAL-COM,amalgamation_fee,Amalgamation fee,commercial,any,,All,,,,125000,per_additional_25_sqyd,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+AMAL-SHOP,amalgamation_fee,Amalgamation fee,shop,any,,All,,,,200000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+AMAL-FLOORS,amalgamation_fee,Amalgamation fee,commercial,any,,All,,,,125000,per_floor,,PKR,For joint use of building floors,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+AMAL-CORP,amalgamation_fee,Amalgamation fee,any,corporate,,All,,,,,rule,,PKR,Corporate body: same as individual,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+DEAMAL,de_amalgamation_fee,De amalgamation fee,any,any,,All,,,,,rule,,PKR,Same as amalgamation fee. Division allowed only after amalgamation. Residential: not into plots smaller than 2 kanal. Commercial: not smaller than 8 marla. Not applicable to shops.,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+NOC-MORTGAGE-IND,mortgage_noc_fee,Mortgage noc fee,any,individual,,All,,,,12500,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+NOC-MORTGAGE-IND-OLD1,mortgage_noc_fee,Mortgage noc fee,any,individual,,All,,,,10000,fixed,,PKR,Older value - do not quote as current,,,2018-07-01,2022-12-01,7.-All-Transfer-Procedure.doc,superseded
+NOC-MORTGAGE-CORP,mortgage_noc_fee,Mortgage noc fee,any,corporate,,All,,,,25000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+LIEN-IND,lien_marking_fee,Lien marking fee,any,individual,,All,,,,12500,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+LIEN-IND-OLD1,lien_marking_fee,Lien marking fee,any,individual,,All,,,,10000,fixed,,PKR,Older value - do not quote as current,,,2018-07-01,2022-12-01,7.-All-Transfer-Procedure.doc,superseded
+LIEN-CORP,lien_marking_fee,Lien marking fee,any,corporate,,All,,,,25000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SITEPLAN-RES,site_plan_possession_fee,Site plan possession fee,residential,any,,All,,,,7500,per_marla,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SITEPLAN-COM,site_plan_possession_fee,Site plan possession fee,commercial,any,,All,,,,15000,per_marla,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+UTIL-WATER-METER,utility_connection_charges,water,any,any,,All,,,,140000,per_meter,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+UTIL-ELEC-METER,utility_connection_charges,electricity,any,any,,All,,,,160000,per_meter,,PKR,Gas meter is installed through SNGPL,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SITEPLAN-URGENT,site_plan_possession_fee,urgent_site_plan,any,any,,All,,,,20000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SITEPLAN-DUP,site_plan_possession_fee,duplicate_site_plan,any,any,,All,,,,2000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SITEPLAN-REV,site_plan_possession_fee,revised_site_plan,any,any,,All,,,,3000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SITEPLAN-EMP,site_plan_possession_fee_modifier,Site plan possession fee modifier,any,any,,All,,,,100,percent_exemption,,PKR,Site plan and possession dues 100% exempted for serving DHA employees; Applies to: serving_dha_employee,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-SCRUTINY-RES,building_plan_fee,scrutiny,residential,individual,,All,,,,15,per_sqft,,PKR,Residential / apartments,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-SCRUTINY-COM,building_plan_fee,scrutiny,commercial,individual,,All,,,,22,per_sqft,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-SCRUTINY-CORP-RES,building_plan_fee,scrutiny,residential,corporate,,All,,,,18,per_sqft,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-SCRUTINY-CORP-COM,building_plan_fee,scrutiny,commercial,corporate,,All,,,,42,per_sqft,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-REV-RES,building_plan_fee,revised_drawing,residential,individual,,All,,,,20000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-REV-COM-20K,building_plan_fee,revised_drawing,commercial,individual,,All,,20000,sq ft,50000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-REV-COM-20K+,building_plan_fee,revised_drawing,commercial,individual,,All,20001,,sq ft,125000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-REV-CORP-RES,building_plan_fee,revised_drawing,residential,corporate,,All,,,,50000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-REV-CORP-COM,building_plan_fee,revised_drawing,commercial,corporate,,All,,,,,rule,,PKR,Same as individual,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+BP-EMP,building_plan_fee_modifier,Building plan fee modifier,any,any,,All,,,,50,percent_exemption,,PKR,Drawing scrutiny and approval 50% exemption for serving DHA employees; Applies to: serving_dha_employee,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CC-HOUSE-FIRST,completion_certificate_fee,first_owner,residential,any,,All,,,,10000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CC-HOUSE-TFR,completion_certificate_fee,on_transfer,residential,any,,All,,,,5000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CC-COM-FIRST-20K,completion_certificate_fee,first_owner,commercial,any,,All,,20000,sq ft,40000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CC-COM-FIRST-20K+,completion_certificate_fee,first_owner,commercial,any,,All,20001,,sq ft,125000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CC-COM-TFR,completion_certificate_fee,on_transfer,commercial,any,,All,,,,50,percent_of_first_owner_fee,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CC-DUP,completion_certificate_fee,duplicate,any,any,,All,,,,2500,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+GPA-IND,power_of_attorney_fee,GPA,any,individual,,All,,,,50000,fixed_per_plot,,PKR,Same as PROC-2018,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+GPA-CORP,power_of_attorney_fee,GPA,any,corporate,,All,,,,60000,fixed_per_plot,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SPA,power_of_attorney_fee,SPA,any,any,,All,,,,25000,fixed_per_plot,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SPA-OLD1,power_of_attorney_fee,SPA,any,any,,All,,,,15000,fixed,,PKR,Older value - do not quote as current,,,2018-07-01,2022-12-01,7.-All-Transfer-Procedure.doc,superseded
+CERTVER-500,certificate_verification_fee,Certificate verification fee,any,any,,All,251,500,sq yd,20000,fixed,,PKR,Listed as '500 Sq Yd',,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CERTVER-250,certificate_verification_fee,Certificate verification fee,any,any,,All,0,250,sq yd,10000,fixed,,PKR,Listed as '250 Sq Yd',,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+PLOTVER,certificate_verification_fee,plot_verification,any,any,,All,,,,6500,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CERTVER-RULE,certificate_verification_fee,Certificate verification fee,any,any,,All,,,,,rule,,PKR,Revised certificate verification charges do not apply to DHA Valley / DHA Homes / DHA Commercial Avenue,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SECURITY-ANNUAL,security_charges,Security charges,any,any,,All,,,,12000,per_year,,PKR,Wef 01 Dec 2022. Earlier amounts recovered as per SOC 2011 & SOC 2021.,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+EXCESS-A,excess_area_charges,Cat A (constructable),any,any,,All,,,,100,percent_of_market_price,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+EXCESS-B,excess_area_charges,Cat B (non-constructable),any,any,,All,,,,30,percent_of_market_price,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+EXCESS-B-OLD1,excess_area_charges,Cat B (non-constructable),any,any,,All,,,,25,percent_of_market_price,,PKR,Older value - do not quote as current,,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+EXCESS-C,excess_area_charges,"Cat C (trapped, non-constructable)",any,any,,All,,,,150,per_sqft,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+EXCESS-C-OLD1,excess_area_charges,"Cat C (trapped, non-constructable)",any,any,,All,,,,500000,per_kanal,,PKR,Older value - do not quote as current,,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+CORNER-RES-500-,corner_or_two_roads_charges,Corner or two roads charges,residential,any,,All,0,499,sq yd,100000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CORNER-RES-500+,corner_or_two_roads_charges,Corner or two roads charges,residential,any,,All,500,,sq yd,200000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CORNER-COM-100,corner_or_two_roads_charges,Corner or two roads charges,commercial,any,,All,0,100,sq yd,250000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CORNER-COM-100+,corner_or_two_roads_charges,Corner or two roads charges,commercial,any,,All,101,,sq yd,500000,fixed,,PKR,SOC lists '100 Sq Yd & above',,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+CORNER-RULE,corner_or_two_roads_charges,Corner or two roads charges,any,any,,All,,,,,rule,,PKR,"Two openings on one road are charged the same as 'opening on two roads'. On a new sale, 10% of plot price is charged for corner plots.",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+REISSUE-DUES,reissuance_fee,transfer dues,any,any,,All,,,,8000,fixed,,PKR,,,15 days,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+REISSUE-DUES-OLD1,reissuance_fee,transfer dues,any,any,,All,,,,5500,fixed,,PKR,Older value - do not quote as current,,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+REISSUE-NDC,reissuance_fee,NDC,any,any,,All,,,,8000,fixed,,PKR,,,3 months,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+REISSUE-NDC-OLD1,reissuance_fee,NDC,any,any,,All,,,,5500,fixed,,PKR,Older value - do not quote as current,,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+REISSUE-RULE,reissuance_fee,Reissuance fee,any,any,,All,,,,,rule,,PKR,"Surcharge for 15 days on unpaid amount, security and non-utilization of three months are calculated at the time of dues preparation. Instalments due within one month of signing transfer dues are recoverable from the seller.",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+PROC-RES,processing_registration_fee,Processing registration fee,residential,any,,All,,,,6000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+PROC-COM,processing_registration_fee,Processing registration fee,commercial,any,,All,,,,12000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SECFEE-500+,security_fee_refundable,Security fee refundable,residential,any,,All,500,,sq yd,75000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SECFEE-500-,security_fee_refundable,Security fee refundable,residential,any,,All,0,499,sq yd,40000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+SECFEE-COM,security_fee_refundable,Security fee refundable,commercial,any,,All,,,,40,per_sqft,250000,PKR,"Rs 40/sq ft or Rs 250,000 whichever is higher",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-BYELAWS,misc,Bye Laws booklet,any,any,,All,,,,600,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-IDCARD,misc,ID card charges,any,any,,All,,,,400,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-IDCARD-OLD1,misc,ID card charges,any,any,,All,,,,300,fixed,,PKR,Membership card re-issue,,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+MISC-DOCS,misc,Documentation fee,any,any,,All,,,,4000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-DUP-AL,misc,Duplicate allotment letter,any,any,,All,,,,25000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-DUP-AL-OLD1,misc,Duplicate allotment letter,any,any,,All,,,,20000,fixed,,PKR,Older value - do not quote as current,,,2018-07-01,2022-12-01,7.-All-Transfer-Procedure.doc,superseded
+MISC-DUP-AL-OLD2,misc,Duplicate allotment letter,any,any,,All,,,,10000,fixed,,PKR,Older value - do not quote as current,,,,2022-12-01,https://www.dhai-r.com.pk/faqs/,superseded
+MISC-AL-SPECIAL-AUTH,misc,Allotment letter on special authority (authority letter),any,any,,All,,,,5000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-PROV-AL,misc,Issue of provisional allotment letter,any,any,,All,,,,12500,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-DEALER-REG,misc,Registration of property dealers,any,any,,All,,,,50000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-DEALER-RENEW,misc,Renewal of property dealer registration,any,any,,All,,,,25000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-DEALER-CARD,misc,Property dealer's card fee,any,any,,All,,,,1500,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-CAVEAT,misc,Legal fee for caution removal,any,any,,All,,,,10000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-CONSULT-REG,misc,Registration of consultant (Architect / Structure / Vetting / Soil test / Solar firm),any,any,,All,,,,50000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-CONSULT-RENEW,misc,Renewal of consultant registration,any,any,,All,,,,25000,per_year,,PKR,"Consultant_Registration_Form_DHAP states Rs 20,000 annual renewal for PEC-registered consultants - conflict to confirm",,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-NAME-CORR,misc,Correction in owner name,any,any,,All,,,,6000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-POSTAGE-LOCAL,misc,Postage of allotment letter (local),any,any,,All,,,,5000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-POSTAGE-FOREIGN,misc,Postage of allotment letter (foreign),any,any,,All,,,,20000,fixed,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-ATTESTED-DOC,misc,Provision of attested document,any,any,,All,,,,600,per_document,,PKR,,,,2022-12-01,,Revised_charges_W.E.F_Dec_-2022.pdf,current
+MISC-AL-LATE,misc,Late collection of allotment letter (after 3 months local / 6 months overseas),any,any,,All,,,,5000,fixed,,PKR,,,,,,4.-Collection-of-Allotment-Procedure.pdf,needs_confirmation
+VALLEY-FO-5M,valley_file_opening_fee,5 Marla,any,any,,DHA Valley / own projects,,,,2500,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-FO-8M,valley_file_opening_fee,8 Marla,any,any,,DHA Valley / own projects,,,,4500,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-FO-5M-OS,valley_file_opening_fee,5 Marla (OS Block),any,any,,DHA Valley / own projects,,,,30,fixed,,USD,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-FO-8M-OS,valley_file_opening_fee,8 Marla (OS Block),any,any,,DHA Valley / own projects,,,,65,fixed,,USD,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-FO-4M-COM,valley_file_opening_fee,4 Marla (Comm),any,any,,DHA Valley / own projects,,,,3000,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-FO-SHOP,valley_file_opening_fee,Shop,any,any,,DHA Valley / own projects,,,,3000,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-FO-8M-COM,valley_file_opening_fee,8 Marla (Comm),any,any,,DHA Valley / own projects,,,,5000,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-END-5M,valley_endorsement_fee,5 Marla (incl OS Block),any,any,,DHA Valley / own projects,,,,500,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-END-8M,valley_endorsement_fee,8 Marla (incl OS Block),any,any,,DHA Valley / own projects,,,,1000,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-END-4M-COM,valley_endorsement_fee,4 Marla (Comm),any,any,,DHA Valley / own projects,,,,1000,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-END-SHOP,valley_endorsement_fee,Shop,any,any,,DHA Valley / own projects,,,,500,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-END-8M-COM,valley_endorsement_fee,8 Marla (Comm),any,any,,DHA Valley / own projects,,,,1500,fixed,,PKR,,,,2018-07-01,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+VALLEY-CONV-MS,membership_fee,Membership fee on conversion of allotment certificate (DHA projects),any,any,,DHA Valley / own projects,,,,60000,fixed,,PKR,"FAQ states Rs 27,500 (Rs 2,500 for further plots); SOC 2022 tiered membership fees should apply",,,,2022-11-30,13.-DHA-Own-project-Valley-fIle-Conversion-Procedure.doc,superseded
+ETAG-RES,etag_charges,Installation,any,any,,All,,,,600,fixed,,PKR,Renewal/replacement Rs 600. Billed through monthly utility bill except Sector F Ph-I and Askari Towers.; Applicant: resident,,1 year,,,DHA_resident.pdf,needs_confirmation
+ETAG-VISITOR,etag_charges,Installation / renewal / replacement,any,any,,All,,,,1200,fixed,,PKR,Deposit in DHA Askari Bank account (see verified accounts list); Applicant: frequent_visitor_or_ex_bahria,,1 year,,,frequent_visitors.pdf,needs_confirmation
+ETAG-EMP-RENEW,etag_charges,Renewal / duplicate,any,any,,All,,,,300,fixed,,PKR,Applicant: dha_or_jv_employee,,1 year,2021-06-07,,DHAEmployee-7-6-2021.pdf,needs_confirmation
+ETAG-10CORPS,etag_charges,Integration with HQ 10 Corps E-tag (optional),any,any,,All,,,,800,fixed,,PKR,Applicant: dha_or_jv_employee,,,2021-06-07,,DHAEmployee-7-6-2021.pdf,needs_confirmation
+ETAG-10CORPS-RENEW,etag_charges,Renewal of HQ 10 Corps integration (optional),any,any,,All,,,,500,fixed,,PKR,Applicant: dha_or_jv_employee,,,2021-06-07,,DHAEmployee-7-6-2021.pdf,needs_confirmation
+STICKER-RES,car_sticker,Car sticker,any,any,,All,,,,100,per_sticker,,PKR,Undated form; may be replaced by E-Tag; Applicant: resident,,,,,Flag-A.doc,needs_confirmation
+STICKER-OTHER,car_sticker,Car sticker,any,any,,All,,,,500,per_sticker,,PKR,Undated form; may be replaced by E-Tag; Applicant: other,,,,,Flag-A.doc,needs_confirmation
+SERVANT-CARD,servant_pass,Card lamination,any,any,,All,,,,30,fixed,,PKR,,,,,,Application_for_Pass_Servant_Maid_and_Dvrs_Revised.pdf,needs_confirmation
+REG-CONTRACTOR,registration_fee,"Contractor registration (Tech & CE Branch, categories C-1 to C-7)",any,corporate / non-corporate,,All,,,,,rule,,PKR,"Fee depends on category (C-1..C-7, by limit of contract award up to Rs 2.5M ... no limit) and entity type; published range Rs 5,000 - Rs 300,000. Category-wise mapping could not be read reliably from the form.",,,,,contractor7oct131.pdf,needs_confirmation
+REG-SUPPLIER,registration_fee,"Supplier registration (SCM), annual",any,corporate / non-corporate,,All,,,,,rule,,PKR,"Category-wise fee by purchase-order limit (from Rs 2,500); payable annually or deducted from invoice",,1 year,,,Supplier_Registration_Form.pdf,needs_confirmation
+REG-SEC-VERIF,registration_fee,Security verification of contractors / suppliers / vendors,any,any,,All,,,,,rule,,PKR,"Charges by category printed on form (Rs 20,000 - Rs 100,000+); pay order to DHA Rawalpindi (Ph-I, III, IV house contractors) or DHA Islamabad (Ph-II, V and Tech/SCM)",,,,,Verification_Form-Revised.pdf,needs_confirmation
+REG-CONSULT-DHAP,registration_fee,"Consultant registration (Tech & CE, PEC registered)",any,any,,All,,,,50000,fixed,,PKR,"Annual renewal Rs 20,000 per this form (SOC 2022 lists Rs 25,000 renewal)",,1 year,,,Consultant_Registration_Form_DHAP.docx,needs_confirmation
+PLOTVER-OLD-FORM,certificate_verification_fee,Plot verification (old form value),any,any,,All,,,,2000,fixed,,PKR,"Printed on 21.-Plot-Verification-Form; SOC 2022 = Rs 6,500",,,,2022-11-30,21.-Plot-Verification-Form.doc,superseded
+MS-CONV-FAQ,membership_fee,Membership fee on conversion of allotment certificate (FAQ),any,individual,,All,,,,27500,fixed,,PKR,"Rs 2,500 for next plots if already a member (FAQ)",,,,2022-11-30,FAQs page,superseded

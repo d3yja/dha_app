@@ -1,0 +1,10 @@
+﻿pay_id,purpose,payee,bank,account_title,account_no,accepted_modes,not_accepted,notes,source,status
+PAY-01,"Transfer dues, fees and charges (general)",DHA Islamabad / DHA Rawalpindi,Askari Bank Ltd (any branch),,,Pay-in slip; pay order; bank draft,Cash; cheques; out-station pay orders,Payee depends on phase - see 07_phases_jurisdiction,7.-All-Transfer-Procedure.doc,needs_confirmation
+PAY-02,DHA Valley payments,DHA Islamabad,Askari Commercial Bank Ltd,,,Deposit slip,Cash; cheques,FAQ: Valley in ACBL; other phases by draft/pay order at Finance Dte,FAQs page,needs_confirmation
+PAY-03,Membership fee on conversion (DHA own projects),DHA Islamabad,Bank Alfalah / Askari Bank,,,Pay-in slip; bank draft,,,13.-DHA-Own-project-Valley-fIle-Conversion-Procedure.doc,needs_confirmation
+PAY-04,Monthly rent of DHA-owned property,DHA Islamabad,Askari Bank,DHA Islamabad (Misc Gen Fund),0106-1650500040,"Bank challan (4 copies: bank, Fin, BD, tenant)",,Verify with Finance before publishing,Monthly-Rent-Challan.pdf,needs_confirmation
+PAY-05,E-Tag charges (visitors),DHA,Askari Bank,DHA account,01061650500040,Deposit slip,,Same account number as rent challan; verify,ex_bharia.pdf,needs_confirmation
+PAY-06,E-Tag charges (residents),DHA,,,,Added to monthly utility bill,,Except Sector F Ph-I and Askari Towers,DHA_resident.pdf,current
+PAY-07,"House contractor registration / verification (Ph-I, III, IV)",DHA Rawalpindi,,,,Pay order submitted to Finance Dte; stamped copy to Security Dte,,,Security_Form.docx,current
+PAY-08,"House contractor registration / verification (Ph-II, V) and Tech/SCM contractors",DHA Islamabad,,,,Pay order,,,Security_Form.docx,current
+PAY-09,Online payment,DHA,,,,Online (details in news item 'Online Payment'),,Finance contact ext 1239,News page,missing

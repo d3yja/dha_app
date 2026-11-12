@@ -1,0 +1,75 @@
+﻿fine_id,directorate,violation,amount_first,amount_second,amount_third,rate_basis,additional,bylaw_clause,effective_from,status
+FIN-001,Business Development,Business inside DHA without registration,5000,15000,Suspension of services,fixed,,15.1.1,2023,current
+FIN-002,Marketing,Improper signage and misuse of circulation spaces,10000,,,fixed,Plus confiscation of signboard / hoarding,15.2.1,2023,current
+FIN-003,Building Control,Excessive excavation / construction without approval of drawing or initial demarcation,60000,,,fixed,,15.3.1,2023,current
+FIN-004,Building Control,Construction without approval of working drawing (commercial),100000,,,fixed,,15.3.2,2023,current
+FIN-005,Building Control,Non-provision of screen towards neighbouring house(s),10000,15000,20000,fixed,4th violation: stoppage of work,15.3.3,2023,current
+FIN-006,Building Control,Non-provision of temporary toilet for labour,10000,,,fixed,,15.3.4,2023,current
+FIN-007,Building Control,Dumping of material on road/shoulder and blockage of drain,12500,,,fixed,Plus shifting charges,15.3.5,2023,current
+FIN-008,Building Control,Dumping of debris/material at unauthorized places,12500,,,fixed,Plus shifting charges,15.3.6,2023,current
+FIN-009,Building Control,Cutting of steel / mixing of mortar on road/street,12500,,,fixed,Plus cost of repair,15.3.7,2023,current
+FIN-010,Building Control,Unattended underground water tank (hazard),10000,,,fixed,,15.3.8,2023,current
+FIN-011,Building Control,Removal / shifting of demarcation pillars,100000,,,fixed,,15.3.9,2023,current
+FIN-012,Building Control,Illegal occupation without NOC from DHA (residential),60000,,,fixed,,15.3.10,2023,current
+FIN-013,Building Control,Illegal occupation of floor(s) without NOC (commercial),100000,,,fixed,Plus Rs 5 per sq ft per month from date of occupation,15.3.11,2023,current
+FIN-014,Building Control,Damage to neighbour's structure,10000,,,fixed,Plus actual cost of repair,15.3.12,2023,current
+FIN-015,Building Control,"Wastage of water at under-construction houses (overflowing tank, car washing on ramp/road, open taps)",10000,15000,20000,fixed,,15.3.13,2023,current
+FIN-016,Building Control,Construction not completed within 3 years of first drawing approval (residential),5000,,,per_month,,15.3.14,2023,current
+FIN-017,Building Control,Construction not completed within 3 years of first drawing approval (commercial),2,,,per_sqft_per_month,After three years,15.3.15,2023,current
+FIN-018,Building Control,Completion not obtained within 90 days of submitting completion plan (residential),2000,,,per_month,,15.3.16,2023,current
+FIN-019,Building Control,Completion not obtained within 90 days of submitting completion plan (commercial),2,,,per_sqft_per_month,,15.3.17,2023,current
+FIN-020,Building Control,Non-maintenance of front facade / exterior walls,10000,,,per_month,,15.3.18,2023,current
+FIN-021,Building Control,Non-provision of float valve,10000,,,per_month,,15.3.19,2023,current
+FIN-022,Building Control,Non-provision of air atomizer nozzles in kitchen,10000,,,per_month,,15.3.20,2023,current
+FIN-023,Building Control,Non-provision or improper installation of green cloth,10000,,,per_month,,15.3.21,2023,current
+FIN-024,Administration,Commercial activity in residential area,500000,700000,"Action per DHA policy (Rs 10 million undertaking, suspension of utilities)",fixed,,15.4.1,2023,current
+FIN-025,Administration,Distinctive marking flags,5000,50000,,fixed,,15.4.2,2023,current
+FIN-026,Administration,"Keeping animal or bird that persistently cries, barks or howls",2000,,,fixed,,15.4.3,2023,current
+FIN-027,Administration,Dog/birds to be expelled from DHA on neighbours' complaint,5000,,,fixed,,15.4.4,2023,current
+FIN-028,Administration,"Keeping animals like lions, elephants, ostriches, cranes, cows, horses causing disturbance/pollution",15000,,,fixed,,15.4.5,2023,current
+FIN-029,Administration,Dog not registered with DHA,10000,,,fixed,,15.4.6,2023,current
+FIN-030,Administration,Dangerous dogs taken out outside prescribed timings,5000,,,fixed,,15.4.7,2023,current
+FIN-031,Administration,Pets without leash / not observing prescribed timings,25000,50000,,fixed,,15.4.8,2023,current
+FIN-032,Administration,Dog bite (fine on dog owner),100000,,,fixed,Plus complete hospital expenditure,15.4.9,2023,current
+FIN-033,Administration,Throwing garbage / littering causing blockage of water and sewerage channels,2500,,,fixed,,15.4.10,2023,current
+FIN-034,Administration,Violation of sports facility regulations,5000,,,fixed,Plus cancellation of membership,15.4.11,2023,current
+FIN-035,Administration,"Use of vacant plot / open area for plantation, function or gathering (except funeral)",5000,,,fixed,,15.4.12,2023,current
+FIN-036,Administration,"Unnecessary water habitats (jars, bottles, tyres, pots) - dengue",2500,,,fixed,,15.4.13,2023,current
+FIN-037,Administration,Larvae found inside houses / plazas,2500,,,fixed,,15.4.14,2023,current
+FIN-038,Administration,Not wearing mask in public places during COVID,2500,,,fixed,COVID-period rule,15.4.15,2023,current
+FIN-039,Administration,Closure / reduction of staff rules in markets (COVID),5000,,,fixed,COVID-period rule,15.4.16,2023,current
+FIN-040,Administration,Not maintaining social distancing (COVID),2500,,,fixed,COVID-period rule,15.4.17,2023,current
+FIN-041,Administration,Drying clothes on front/side walls or terrace railing,2000,,,fixed,,15.4.18,2023,current
+FIN-042,Environment,Non-maintenance of service area in front of house,5000,,,fixed,,15.5.1,2023,current
+FIN-043,Environment,Ornamental plants hindering movement on footpath,2500,,,fixed,,15.5.2,2023,current
+FIN-044,Environment,Removal / shifting of debris,,,,assessed,Shifting charges as assessed by Environment Dte (Ch X 10.3.5),15.5.3,2023,current
+FIN-045,Environment,Cutting/removal of tree without permission - up to 10 inch diameter,10000,,,fixed,,15.5.4,2023,current
+FIN-046,Environment,Cutting/removal of tree without permission - 10 to 20 inch diameter,20000,,,fixed,,15.5.4,2023,current
+FIN-047,Environment,Cutting/removal of tree without permission - 20 to 30 inch diameter,30000,,,fixed,,15.5.4,2023,current
+FIN-048,Environment,Cutting/removal of tree without permission - above 30 inch diameter,50000,,,fixed,,15.5.4,2023,current
+FIN-049,Environment,Cutting/removal of already planted trees without permission,2500,,,fixed,,15.5.5,2023,current
+FIN-050,Environment,Burning material causing smoke / pollution,5000,,,fixed,,15.5.6,2023,current
+FIN-051,Environment,Use of polythene bags by commercial shops / garbage collection,5000,,,fixed,,15.5.7,2023,current
+FIN-052,Project Director,Tampering with main sewerage line,50000,,,fixed,,15.6.1,2023,current
+FIN-053,Project Director,Tampering with water supply line,50000,,,fixed,,15.6.2,2023,current
+FIN-054,Project Director,Illegal water connection (pump/motor) - residential,50000,,,fixed,,15.6.3,2023,current
+FIN-055,Project Director,Illegal water connection (pump/motor) - commercial,100000,,,fixed,,15.6.3,2023,current
+FIN-056,Project Director,Illegal use of electricity / water,50000,,,fixed,,15.6.4,2023,current
+FIN-057,Project Director,Cutting of road without DHA permission,25000,,,fixed,Plus cost of repair,15.6.5,2023,current
+FIN-058,Project Director,Damage to DHA road / footpath / services,15000,,,fixed,Plus actual cost of repair,15.6.6,2023,current
+FIN-059,Project Director,Sewerage disposed into rain water,50000,,,fixed,,15.6.7,2023,current
+FIN-060,Security,Renting house / plaza / shop without NOC,20000,Double,Suspension of services,fixed,,15.7.1,2023,current
+FIN-061,Security,Keeping employee without security pass,10000,Double,Suspension of services,fixed,,15.7.2,2023,current
+FIN-062,Security,Violation of road safety bylaws,10000,Double,Suspension of services,fixed,,15.7.3,2023,current
+FIN-063,Security,Fireworks / discharge of arms,20000,Double,Suspension of services,fixed,,15.7.4,2023,current
+FIN-064,Security,Storage of hazardous materials / chemicals,20000,Double,Suspension of services,fixed,,15.7.5,2023,current
+FIN-065,Security,False HASS alarm twice in a month,5000,Double,Suspension of services,fixed,,15.7.6,2023,current
+FIN-066,Security,Non-cooperation / misconduct with DHA security staff,2000-10000,Double,Suspension of services,range,,15.7.7,2023,current
+FIN-067,Security,Violation of bylaws or security guidelines,2000-10000,Double,Suspension of services,range,,15.7.8,2023,current
+FIN-068,Security,Unauthorized use of vacant plots,5000,Double,Suspension of services,fixed,,15.7.9,2023,current
+FIN-069,Security,Playing on roads / in family parks / green areas,2000-5000,Double,Suspension of services,range,,15.7.10,2023,current
+FIN-070,Security,Unauthorized parking,2000-5000,Double,Suspension of services,range,,15.7.11,2023,current
+FIN-071,Security,"Wastage of water (overflowing tank, car washing on ramp/porch/road, open taps)",5000,10000,15000,fixed,,15.7.12,2023,current
+FIN-072,Security,Hiring unverified / unregistered contractor for house construction,20000,Double,Suspension of services,fixed,,15.7.13,2023,current
+FIN-073,Security,Employing contractor after self-construction permission,20000,Double,Suspension of services,fixed,,15.7.14,2023,current
+FIN-074,Security,Misconduct / violation by contractor or labourers,5000-10000,Double,Suspension of services,range,,15.7.15,2023,current

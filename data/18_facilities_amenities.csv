@@ -1,0 +1,22 @@
+﻿facility_id,facility,type,phase,location,timings,contact,eligibility,source,status
+FAC-01,Avicena Clinic Ph-I,Medical,Phase I,,,051-5788106,,contact-no page,current
+FAC-02,Avicena Medical Centre Ph-II,Medical,Phase II,,,,,News page,needs_confirmation
+FAC-03,Dental Clinic,Medical,,,,,,News page,needs_confirmation
+FAC-04,Jacaranda Family Club,Club,,,,,,Facilities page,needs_confirmation
+FAC-05,DHA Education System,Education,,,,,,Facilities page,needs_confirmation
+FAC-06,Pine Hills Golf,Sports,Pine Hills,,,0343-5374441 (coach & marshal),,contact-no page,current
+FAC-07,Sports facilities Ph-II,Sports,Phase II,,,0333-5270947,"Sports membership (violations: Rs 5,000 + cancellation)",contact-no page,current
+FAC-08,Sports facilities Ph-V,Sports,Phase V,,,0333-0511819,,contact-no page,current
+FAC-09,Mini Oval cricket ground,Sports,,,,0310-5411123,,contact-no page,current
+FAC-10,Football ground Ph-III,Sports,Phase III,,,0308-0598213,,contact-no page,current
+FAC-11,DHA graveyard Ph-I,Graveyard,Phase I,,,See contacts (Burial - Phase I),See 10_eligibility_rules (burial),ContactNosGraveyardSupvr-26-1-2021.pdf,current
+FAC-12,DHA graveyard Ph-II,Graveyard,Phase II,,,See contacts (Burial - Phase II),See 10_eligibility_rules (burial),ContactNosGraveyardSupvr-26-1-2021.pdf,current
+FAC-13,DHA graveyard Ph-V,Graveyard,Phase V,,,See contacts (Burial - Phase V),See 10_eligibility_rules (burial),ContactNosGraveyardSupvr-26-1-2021.pdf,current
+FAC-14,Park Sector D,Park,Phase V,Sector D,,,,Other Activities page (planned by 20 Oct 2023),needs_confirmation
+FAC-15,Park Sector H,Park,Phase V,Sector H,,,,Other Activities page (planned by 20 Oct 2023),needs_confirmation
+FAC-16,View Point OHWT Sector D,Amenity,Phase V,Sector D,,,,Other Activities page (planned by 30 Sep 2023),needs_confirmation
+FAC-17,Water Filtration Plant Sector D,Utility,Phase V,Sector D,,,,Other Activities page (planned by 30 Sep 2023),needs_confirmation
+FAC-18,Complaint Management System,Service,All,,,1092,Residents,Facilities page,current
+FAC-19,DHA Sales Lounge,Service,,,,0321-5081777; 0321-5082777,Members,Sales Lounge page,current
+FAC-20,Fire fighting,Emergency,All,,,0323-5013000,,contact-no page,current
+FAC-21,Water bowser service,Utility,All,,,,Residents (see Byelaws 11.4 and news 'Advisory on Water Bowzer'),Byelaws Ch XI; News page,needs_confirmation

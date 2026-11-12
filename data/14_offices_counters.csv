@@ -1,0 +1,21 @@
+﻿office_id,office,location,phase,counter_no,services_handled,working_days,hours,phone,source,status
+OFF-01,DHA Head Office,"Defence Mall, Defence Avenue, Phase-I, Islamabad-Rawalpindi 44000",Phase I,,"Transfer & Record, Finance, Legal desk, main directorates",,,051-111-555-400,Website footer,current
+OFF-02,Finance desk (dues / NDC),Head Office / Transfer & Record,Phase I,,"Statement of dues, NDC, transfer document set",,,UAN ext 1238 / 1313 / 1402,Procedure docs,current
+OFF-03,Legal Desk,Head Office,Phase I,,"Scrutiny of transfer papers, transfer time & number",,,,7.-All-Transfer-Procedure.doc,current
+OFF-04,Transfer & Record reception,Head Office,Phase I,,GPA transfer document set,,,UAN ext 1164,11.-GPA-Transfer-Procedure.doc,current
+OFF-05,Town Planning - site plan forms & receipts,Town Planning Dte,,Counter 11,Site plan / possession forms; receipt for site plan collection,,,UAN ext 1107,FAQs page,current
+OFF-06,Town Planning - submission,Town Planning Dte,,Counter 6,Submission of site plan application after paying dues,,,,FAQs page,current
+OFF-07,DHA Valley Finance counter,DHA Valley,DHA Valley,Counter 1,No Demand Certificate after verification of paid amounts,,,,13.-DHA-Own-project-Valley-fIle-Conversion-Procedure.doc,current
+OFF-08,Customer Support & Operations Dept,Phase V,Phase V,,Verification of Valley file opening payment receipts,,,,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+OFF-09,Security Office Phase-I (Glass Cabin),"Sector E Water Tank, Phase I",Phase I,,Car sticker / entry card applications,"Mon-Fri (except Sat, Sun)",09:00-12:00,,Flag-A.doc,needs_confirmation
+OFF-10,Security Directorate,"Avenue Mall (ground floor), Defence Avenue, Phase I, Rawalpindi",Phase I,,Contractor / supplier / vendor security verification and registration,,,,Verification_Form-Revised.pdf,current
+OFF-11,Security Office (each phase),Respective phase,All,,"Rent NOCs, vacation NOCs, servant passes, CCTV requests",,,See contacts directory,NOC forms,current
+OFF-12,E-Tag enrolment point Ph-I,Phase I,Phase I,,E-Tag registration and installation,,,0308-8953157,contact-no page,current
+OFF-13,E-Tag enrolment point Ph-II,Phase II,Phase II,,E-Tag registration and installation,,,0324-5353036,contact-no page,current
+OFF-14,Building Control Office Ph-V,"Street 1st Ave, Sector G, Phase V",Phase V,,All building control matters for Ph-V (shifted from Ph-II wef 04 Aug 2023),,,UAN ext 4706 / 4726,Other Activities page,current
+OFF-15,Complaint Office Ph-V,Phase V,Phase V,,Maintenance / service complaints,,,1092; 051-2713308,contact-no page,current
+OFF-16,DHA Valley site office,"DHA Valley Expressway near DHA Phase VI, Islamabad",DHA Valley,,"Valley, DHA Homes, Commercial Avenue, Overseas Block",,,"+92-111-555-400 (ext 1209, 1240)",contact-no page,current
+OFF-17,Sector F site office,"DHA Phase 1, Sector F Commercial Block, Expressway",Phase I Sector F,,Sector F matters,,,051-5400141-3,contact-no page,current
+OFF-18,Business Development Dte,"Defence Mall, Defence Avenue",Phase I,,"DHA-owned shop rentals, business registration",,,UAN ext 1286,Application-Form-for-Rental-Property.pdf,current
+OFF-19,"Director Design, Tech & CE Branch","Head Office, Defence Avenue, Sector A, DHA Phase 1",Phase I,,Consultant registration,,,,Consultant_Registration_Form_DHAP.docx,current
+OFF-20,DHA Sales Lounge,,,,"Property valuation, sale/purchase facilitation",,,0321-5081777; 0321-5082777,Sales Lounge page,needs_confirmation

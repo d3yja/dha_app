@@ -1,0 +1,24 @@
+﻿rule_id,instrument,form_id,jurisdiction,stamp_paper_value_pkr,paper_type,attested_by,copies,notes,source,status
+STP-01,Transfer affidavit by seller / GPA holder,FRM-AFF-SELLER,Islamabad (Capital Territory),20,Judicial stamp paper,Oath Commissioner,Original + 1 photocopy,,8.-Normal-Transfer-Procedure.doc,current
+STP-02,Transfer affidavit by seller / GPA holder,FRM-AFF-SELLER,Rawalpindi (Punjab / provincial),50,Judicial stamp paper,Oath Commissioner,Original + 1 photocopy,,8.-Normal-Transfer-Procedure.doc,current
+STP-03,Transfer affidavit by donor,FRM-AFF-DONOR,Islamabad (Capital Territory),20,Judicial stamp paper,Oath Commissioner,Original + 1 photocopy,,9.-Gift-Transfer-Procedure.doc,current
+STP-04,Transfer affidavit by donor,FRM-AFF-DONOR,Rawalpindi (Punjab / provincial),50,Judicial stamp paper,Oath Commissioner,Original + 1 photocopy,,9.-Gift-Transfer-Procedure.doc,current
+STP-05,"Undertaking by purchaser (additional charges, dues, taxes)",FRM-UND-PURCHASER,Islamabad (Capital Territory),20,Judicial stamp paper,Oath Commissioner,Original,,8.-Normal-Transfer-Procedure.doc,current
+STP-06,"Undertaking by purchaser (additional charges, dues, taxes)",FRM-UND-PURCHASER,Rawalpindi (Punjab / provincial),50,Judicial stamp paper,Oath Commissioner,Original,,8.-Normal-Transfer-Procedure.doc,current
+STP-07,Undertaking by donee,FRM-UND-DONEE,Islamabad (Capital Territory),20,Judicial stamp paper,Oath Commissioner,Original,,9.-Gift-Transfer-Procedure.doc,current
+STP-08,Undertaking by donee,FRM-UND-DONEE,Rawalpindi (Punjab / provincial),50,Judicial stamp paper,Oath Commissioner,Original,,9.-Gift-Transfer-Procedure.doc,current
+STP-09,Agreement to sell plot,FRM-AGR-SELL,Islamabad (Capital Territory),100,Judicial stamp paper,DHA Islamabad-Rawalpindi / Notary Public / Oath Commissioner,Original,,8.-Normal-Transfer-Procedure.doc,current
+STP-10,Agreement to sell plot,FRM-AGR-SELL,Rawalpindi (Punjab / provincial),1200,Judicial stamp paper,DHA Islamabad-Rawalpindi / Notary Public / Oath Commissioner,Original,,8.-Normal-Transfer-Procedure.doc,current
+STP-11,Gift deed,FRM-GIFT-DEED,Islamabad (Capital Territory),100,Judicial stamp paper,Oath Commissioner / DHA,Original,,2.doc (Gift Deed),current
+STP-12,Gift deed,FRM-GIFT-DEED,Rawalpindi (Punjab / provincial),1200,Judicial stamp paper,Oath Commissioner / DHA,Original,,2.doc (Gift Deed),current
+STP-13,Affidavit for loss of allotment letter,FRM-AL-DUP-SPEC,Islamabad (Capital Territory),20,Judicial stamp paper,Oath Commissioner,Original,,5.-Duplicate-Allotment-Letter-Procedure.docx,current
+STP-14,Affidavit for loss of allotment letter,FRM-AL-DUP-SPEC,Rawalpindi (Punjab / provincial),50,Judicial stamp paper,Oath Commissioner,Original,,5.-Duplicate-Allotment-Letter-Procedure.docx,current
+STP-15,Acceptance of gift / certificate by donee,FRM-CERT-DONEE,Both,20,Judicial stamp paper,Oath Commissioner,,"With signatures, addresses and CNIC copies of two witnesses",9.-Gift-Transfer-Procedure.doc,current
+STP-16,Affidavit for surrender of rights (each legal heir),FRM-AFF-SURRENDER,Both,50,Judicial stamp paper,Oath Commissioner,,Original + 1 photocopy per heir,10.-Widow-Legal-Heir-Transfer-Procedure.doc,current
+STP-17,Undertaking by legal heir (transferee),FRM-UND-HEIR,Both,50,Judicial stamp paper,Oath Commissioner,,,10.-Widow-Legal-Heir-Transfer-Procedure.doc,current
+STP-18,Special Power of Attorney (prepared in Pakistan),FRM-SPA-SPEC,Both,100,Judicial stamp paper,Notary Public,,If prepared abroad: Pakistan Mission + Foreign Office verification instead,Procedure-of-Preparing-SPA-Special-Power-Of-Attorney.doc,current
+STP-19,General Power of Attorney (owner abroad),FRM-GPA-SPEC,Both,,Judicial stamp paper,Pakistan Mission; Foreign Office Islamabad; registered with Registrar,,Local GPAs not accepted,11.-GPA-Transfer-Procedure.doc,needs_confirmation
+STP-20,Undertaking by purchaser regarding taxes/dues (DHA Valley conversion),FRM-VALLEY-CONVERT,Both,50,Judicial stamp paper,,,,REQUEST_FOR_CONVERSION_OF_ALLOTMENT_CERTIFICATE_INTO_ALLOTMENT_LETTER.pdf,current
+STP-21,Irrevocable undertaking for residential construction (Anx F),FRM-UND-IRREVOCABLE,Both,500,Judicial stamp paper,Oath Commissioner,,,"DHAbyelaws.pdf (2022, updated 2023)",current
+STP-22,Affidavit by engineering professional (Anx A),FRM-AFF-ENGR,Both,100,Judicial stamp paper,Notary,,,Affidavit__Anx.docx,current
+STP-23,Agreement between architect / engineer and DHA,FRM-CRIT-ARCH,Both,,Judicial stamp paper,,,On judicial stamp paper; value not stated,architect-Criteria_nBq0w8s.docx,needs_confirmation

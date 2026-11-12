@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DHA Resident Help</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="ribbon">Prototype · information from the DHA public website (Oct 2026), still being checked by DHA</div>
+  <header class="topbar">
+    <a href="#/" class="brand" aria-label="Home">
+      <span class="brand-mark" aria-hidden="true">DHA</span>
+      <span class="brand-text"><strong>Resident Help</strong><small>Islamabad · Rawalpindi</small></span>
+    </a>
+    <nav class="top-actions">
+      <a href="#/" class="btn btn-ghost top-home" data-icon="home">Home</a>
+      <button type="button" class="btn btn-ghost lang-btn" id="lang-btn" data-no-tr aria-label="Change language">اردو</button>
+      <a href="#/settings" class="btn btn-ghost btn-icon-only" data-icon="settings" aria-label="Settings (for staff)" title="Settings (for staff)"></a>
+    </nav>
+  </header>
+
+  <main id="view" tabindex="-1"></main>
+
+  <footer class="helpbar" aria-label="Talk to a person">
+    <span class="helpbar-text">Prefer to talk to a person?</span>
+    <a class="btn btn-call" href="tel:1092" data-icon="phone">Complaints <b>1092</b></a>
+    <a class="btn btn-call" href="tel:+9251111555400" data-icon="phone">Helpline <b>111-555-400</b></a>
+  </footer>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

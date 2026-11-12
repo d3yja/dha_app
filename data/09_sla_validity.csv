@@ -1,0 +1,24 @@
+﻿sla_id,service_id,item,normal_time,urgent_option,validity,deadline_or_expiry_rule,source,status
+SLA-01,SVC-DUES,Statement of dues,2-3 hrs,,15 days,Re-issue fee if expired,8.-Normal-Transfer-Procedure.doc; SOC 2022,current
+SLA-02,SVC-NDC,No Demand Certificate,24-48 hrs after payment,,3 months,Re-issue fee if expired,8.-Normal-Transfer-Procedure.doc; SOC 2022,current
+SLA-03,SVC-TFR-NORMAL,Transfer time slot,Next day (first come first served),Urgent transfer (fee),,,7.-All-Transfer-Procedure.doc,current
+SLA-04,SVC-TFR-NORMAL,Allotment letter after transfer,7 working days,24 hrs / 72 hrs (fee),,FAQ page states 20 working days - conflict,7.-All-Transfer-Procedure.doc; SOC 2022,needs_confirmation
+SLA-05,SVC-AL-COLLECT,Collection of allotment letter,,,3 months (Pakistan) / 6 months (overseas),Late collection fee after deadline,4.-Collection-of-Allotment-Procedure.pdf,current
+SLA-06,SVC-VALLEY-FILEOPEN,Allotment certificate after verified account statement,Same day,,,Cancelled if not collected within 3 days of issue,FILE-OPENING-PROCEDURE-jul2018.docx,current
+SLA-07,SVC-VALLEY-CONVERT,Allotment letter against allotment certificate,7 working days,,,FAQ states 3 weeks - conflict,FILE-CONVERSION-...-jul2018.docx,needs_confirmation
+SLA-08,SVC-POSSESSION,Site plan,20 working days,4 working days (urgent fee),3 months,Re-validate for further 3 months after paying dues,FAQs page; Byelaws Anx D,current
+SLA-09,SVC-POSSESSION,Possession / demarcation application (DHAI-301T),,,3 months,,APPLICATION_FOR_POSSESSION form,current
+SLA-10,SVC-DRAWING,Drawing approval,20 working days (residential); 45 working days (commercial),,Revalidation required if construction not started within 3 months,,Byelaws Anx D; Ch XIV 14.21,current
+SLA-11,SVC-DEMARCATION,Demarcation for construction,Within 5 days of completing requirements,,,Not allowed during monsoon (15 Jul - 15 Sep),Byelaws Anx D; Other Activities page,current
+SLA-12,SVC-DRAWING,Construction completion,,,3 years from first drawing approval,Monthly fine after 3 years,Byelaws 15.3.14,current
+SLA-13,SVC-COMPLETION,Obtain completion after submitting completion plan,,,90 days,Monthly fine after 90 days,Byelaws 15.3.16,current
+SLA-14,SVC-OCC-NOC,NOC for occupation,10 days (no violation),,,,Byelaws Anx D,current
+SLA-15,SVC-COMPLETION,Completion certificate,30 days (no violation),,,,Byelaws Anx D,current
+SLA-16,SVC-ETAG-RES,E-Tag,,,1 year from installation,Renewal fee,DHA_resident.pdf,current
+SLA-17,SVC-STICKER,Car sticker,3rd day after receipt of form,,,Registration book copy if previous sticker older than 1 year,Flag-A.doc,needs_confirmation
+SLA-18,SVC-SERVANT-PASS,Servant / maid / driver pass,,,1 calendar year,,Application_for_Pass_Servant_Maid_and_Dvrs_Revised.pdf,current
+SLA-19,SVC-CONTRACTOR-SEC,Contractor verification form,,,,Deposit within 1 week of start-of-work letter from Building Control,Verification_Form-Revised.pdf,current
+SLA-20,SVC-PROF-REG,Professional / consultant registration,,,1 year,Annual renewal; expired registrations cancelled,Criteria docs; Other Activities page,current
+SLA-21,SVC-SUPPLIER-REG,Supplier registration,,,1 year,Fee payable annually or deducted from invoice,Supplier_Registration_Form.pdf,current
+SLA-22,SVC-BURIAL,Burial approval,Same day (on verification),,,,SOPBurialNormal-26-1-2021.pdf,needs_confirmation
+SLA-23,SVC-TFR-GPA,GPA transfer,Dues 2-3 hrs; NDC 24-48 hrs after GPA approval,,,,11.-GPA-Transfer-Procedure.doc,current

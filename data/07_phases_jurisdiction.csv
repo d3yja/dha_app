@@ -1,0 +1,17 @@
+﻿phase_id,phase_or_project,type,jurisdiction,pay_orders_in_favour_of,stamp_paper_region,security_office,security_control_room,building_control_office,police_station,site_office,notes,source,status
+PH-1,Phase I,Residential & commercial,Rawalpindi (Punjab),DHA Rawalpindi (house contractors),Rawalpindi rates,"Security Office Ph-I (Glass Cabin, Sector E Water Tank)",051-5788683 / 0324-5353936,,Morgah (per servant pass form - confirm),"Head Office, Defence Mall, Defence Avenue",Sector F has separate site office; residents of Sector F pay E-Tag outside utility bill,Security_Form.docx; contact-no page,needs_confirmation
+PH-1F,Phase I - Sector F,Residential & commercial,Unknown,,,,,,,"Sector F Commercial Block, Expressway (051-5400141-3)",Maintenance bill not required for E-Tag,DHA_resident.pdf; contact-no page,needs_confirmation
+PH-2,Phase II,Residential & commercial,Islamabad (Capital Territory),DHA Islamabad,Islamabad rates,Security Office Ph-II,0324-5353978,,Sihala (per servant pass form - confirm),,Connected to Ph-V via DHA Interchange,Security_Form.docx,needs_confirmation
+PH-3,Phase III,Residential,Rawalpindi (Punjab),DHA Rawalpindi,Rawalpindi rates,Security Office Ph-III,0333-1886529,,,,,Security_Form.docx,needs_confirmation
+PH-4,Phase IV,Residential,Rawalpindi (Punjab),DHA Rawalpindi,Rawalpindi rates,Security Office Ph-I & IV,051-5788683 / 0324-5353936,,,,Shares security with Ph-I,Security_Form.docx; contact-no page,needs_confirmation
+PH-5,Phase V,Residential & commercial,Islamabad (Capital Territory),DHA Islamabad,Islamabad rates,Security Office Ph-V,0324-5353970 / 051-2313315,"Bldg Con Ph-V, 1st Ave Sector G (ext 4706 / 4726)",,"Customer Support & Operations Dept, Phase V; Complaint Office Ph-V",New DHA Head Office under construction in Ph-V,Security_Form.docx; Other Activities page,needs_confirmation
+PH-6,Phase VI,Residential,Unknown,,,,,,,,Uses Ph 6 & 7 requisition form,Account_Statement_Intimation_Requsition_Form_Ph7.pdf,missing
+PH-7,Phase VII,Residential,Unknown,,,,,,,,Booking/registration based; Ph-7 affidavits for deposit slips,Valley downloads page,missing
+PINE-HILLS,Pine Hills,Residential / golf,Unknown,,,Security Office Pine Hills,0315-5024199,,,,,contact-no page,needs_confirmation
+VALLEY,DHA Valley,"JV project (residential, overseas block, homes, commercial)",Rawalpindi (DHA Rawalpindi on Valley forms),DHA Rawalpindi / DHA Islamabad (Bank Alfalah / Askari),,,,,,"DHA Valley site office, Expressway near Ph-VI",Separate T&R desk (ext 1379); certificate verification revised fees do not apply,Valley forms; contact-no page,needs_confirmation
+DHA-HOMES,DHA Homes,Project,Unknown,,,,,,,DHA Valley site office,,contact-no page,needs_confirmation
+COM-AVE,DHA Commercial Avenue,Commercial project,Unknown,,,,,,,DHA Valley site office,,contact-no page,needs_confirmation
+OS-BLOCK,DHA Overseas Block,Valley sub-project,Unknown,,,,,,,DHA Valley site office,File opening fees in USD,FILE-OPENING-PROCEDURE-jul2018.docx,needs_confirmation
+MARGALLA-ENC,Margalla Enclave,Project,Unknown,,,,,,,,Ballot page on website,Home page,needs_confirmation
+MARGALLA-ORCH,Margalla Orchards,Project,Unknown,,,,,,,,Plot conversion process PDF on website (not downloaded),Home page,needs_confirmation
+ASKARI-TWR,DHA Askari Towers,Apartments,Unknown,,,,,,,,Maintenance bill not required for E-Tag; E-Tag not billed via utility bill,DHA_resident.pdf,needs_confirmation

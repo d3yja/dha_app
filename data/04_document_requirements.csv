@@ -1,0 +1,156 @@
+﻿procedure_id,variant,document_name,required_from,original_or_copy,attested_by,copies,stamp_paper,mandatory_or_conditional,condition,form_id,source,status
+PRC-TFR-NORMAL,normal,Transfer application form to Administrator,Seller,Original,,1,,Mandatory,,FRM-TFR-APP,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,Original allotment letter and allocation letter,Seller,Original,,1,,Mandatory,,,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,Request for statement of dues,Seller,Original,,1,,Mandatory,,FRM-DUES-REQ,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,No Demand Certificate (NDC),Seller,Original,,1,,Mandatory,,FRM-NDC,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,Original copy of statement of dues,Seller,Original,,1,,Mandatory,,,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,"Attested CNIC copies of seller, purchaser, next of kin and two witnesses",All parties,Copy,Gazetted officer / as required,1 each,,Mandatory,,,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,Membership form of purchaser with 2 coloured passport photos,Purchaser,Original,,1,,Mandatory,,FRM-MS,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,Authority letter for collection of dues/NDC,Seller,Original,,1,,Conditional,If seller not available in person,FRM-AUTH-DUES,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,Transfer affidavit by seller,Seller,Original + 1 photocopy,Oath Commissioner,2,Rs 20 (Islamabad) / Rs 50 (Rawalpindi),Mandatory,,FRM-AFF-SELLER,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,"Undertaking by purchaser for additional charges, dues and taxes",Purchaser,Original,Oath Commissioner,1,Rs 20 (Islamabad) / Rs 50 (Rawalpindi),Mandatory,,FRM-UND-PURCHASER,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-NORMAL,normal,Agreement to sell plot,Seller and purchaser,Original,DHA / Notary Public / Oath Commissioner,1,"Rs 100 (Islamabad) / Rs 1,200 (Rawalpindi)",Mandatory,,FRM-AGR-SELL,7.-All-Transfer-Procedure.doc; 8.-Normal-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,Transfer application form to Administrator,Seller,Original,,1,,Mandatory,,FRM-TFR-APP,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,Original allotment letter and allocation letter,Seller,Original,,1,,Mandatory,,,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,Request for statement of dues,Seller,Original,,1,,Mandatory,,FRM-DUES-REQ,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,No Demand Certificate (NDC),Seller,Original,,1,,Mandatory,,FRM-NDC,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,Original copy of statement of dues,Seller,Original,,1,,Mandatory,,,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,"Attested CNIC copies of seller, purchaser, next of kin and two witnesses",All parties,Copy,Gazetted officer / as required,1 each,,Mandatory,,,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,Membership form of purchaser with 2 coloured passport photos,Purchaser,Original,,1,,Mandatory,,FRM-MS,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,Authority letter for collection of dues/NDC,Seller,Original,,1,,Conditional,If seller not available in person,FRM-AUTH-DUES,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,Transfer affidavit by donor,Donor,Original + 1 photocopy,Oath Commissioner,2,Rs 20 (Islamabad) / Rs 50 (Rawalpindi),Mandatory,,FRM-AFF-DONOR,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,"Undertaking by donee for additional charges, dues and taxes",Donee,Original,Oath Commissioner,1,Rs 20 (Islamabad) / Rs 50 (Rawalpindi),Mandatory,,FRM-UND-DONEE,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,Gift deed (for love and affection),Donor and donee,Original,DHA / Oath Commissioner,1,"Rs 100 (Islamabad) / Rs 1,200 (Rawalpindi)",Mandatory,,FRM-GIFT-DEED,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-GIFT,gift,"Acceptance of gift by donee with signatures, addresses and CNIC copies of two witnesses",Donee,Original,Oath Commissioner,1,Rs 20 judicial,Mandatory,,FRM-CERT-DONEE,9.-Gift-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,Application by legal heir(s) for transfer,Legal heirs,Original,,1,,Mandatory,,FRM-HEIR-APP,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,"Succession certificate / declaratory decree / heirship certificate from civil judge, or Varasat Nama from Tehsildar (showing all heirs incl. parents)",Legal heirs,Attested copy,Issuing authority,1,,Mandatory,,,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,Allotment letter and allocation letter of deceased,Legal heirs,Original,,1,,Mandatory,,,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,Affidavit for surrender of rights by each legal heir,Each surrendering heir,Original + 1 photocopy,Oath Commissioner,2 each,Rs 50,Mandatory,,FRM-AFF-SURRENDER,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,Undertaking by legal heir(s) in whose name plot is transferred,Transferee heir,Original,Oath Commissioner,1,Rs 50,Mandatory,,FRM-UND-HEIR,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,Membership form of legal heir with 2 passport photos,Transferee heir,Original,,1,,Mandatory,,FRM-MS,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,Death certificate of deceased,Legal heirs,Attested copy,,1,,Mandatory,,,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,CNIC copies of all legal heirs,Legal heirs,Attested copy,,1 each,,Mandatory,,,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,Family Registration Certificate (NADRA),Legal heirs,Copy,,1,,Mandatory,,,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,Guardianship certificate,Guardian,Copy,Court,1,,Conditional,If any heir is a minor,,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-HEIR,legal_heir,Request for statement of dues and NDC,Legal heir,Original,,1,,Mandatory,After approval letter,FRM-DUES-REQ,10.-Widow-Legal-Heir-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Transfer application form to Administrator,Seller,Original,,1,,Mandatory,,FRM-TFR-APP,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Original allotment letter and allocation letter,Seller,Original,,1,,Mandatory,,,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Request for statement of dues,Seller,Original,,1,,Mandatory,,FRM-DUES-REQ,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,No Demand Certificate (NDC),Seller,Original,,1,,Mandatory,,FRM-NDC,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Original copy of statement of dues,Seller,Original,,1,,Mandatory,,,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,"Attested CNIC copies of seller, purchaser, next of kin and two witnesses",All parties,Copy,Gazetted officer / as required,1 each,,Mandatory,,,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Membership form of purchaser with 2 coloured passport photos,Purchaser,Original,,1,,Mandatory,,FRM-MS,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Authority letter for collection of dues/NDC,Seller,Original,,1,,Conditional,If seller not available in person,FRM-AUTH-DUES,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,"Original GPA registered with Registrar, verified by Foreign Office",GPA holder,Original,Pakistan Mission; Foreign Office; Registrar,1,,Mandatory,,FRM-GPA-SPEC,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Validity certificate of GPA from Registrar District Courts,GPA holder,Original,Registrar,1,,Mandatory,,,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,DHA approval letter for GPA transfer,GPA holder,Original,,1,,Mandatory,,,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,CNIC copies of GPA executor (owner) and GPA holder,GPA holder,Copy,,1 each,,Mandatory,,,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Transfer affidavit by GPA holder,GPA holder,Original + 1 photocopy,Oath Commissioner,2,Rs 20 (Islamabad) / Rs 50 (Rawalpindi),Mandatory,,FRM-AFF-SELLER,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Undertaking by purchaser,Purchaser,Original,Oath Commissioner,1,Rs 20 (Islamabad) / Rs 50 (Rawalpindi),Mandatory,,FRM-UND-PURCHASER,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-GPA,gpa,Agreement to sell plot,GPA holder and purchaser,Original,DHA / Notary Public,1,"Rs 100 (Islamabad) / Rs 1,200 (Rawalpindi)",Mandatory,,FRM-AGR-SELL,11.-GPA-Transfer-Procedure.doc; 7.-All-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Transfer application form to Administrator,Seller,Original,,1,,Mandatory,,FRM-TFR-APP,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Original allotment letter and allocation letter,Seller,Original,,1,,Mandatory,,,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Request for statement of dues,Seller,Original,,1,,Mandatory,,FRM-DUES-REQ,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,No Demand Certificate (NDC),Seller,Original,,1,,Mandatory,,FRM-NDC,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Original copy of statement of dues,Seller,Original,,1,,Mandatory,,,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,"Attested CNIC copies of seller, purchaser, next of kin and two witnesses",All parties,Copy,Gazetted officer / as required,1 each,,Mandatory,,,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Membership form of purchaser with 2 coloured passport photos,Purchaser,Original,,1,,Mandatory,,FRM-MS,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Authority letter for collection of dues/NDC,Seller,Original,,1,,Conditional,If seller not available in person,FRM-AUTH-DUES,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Original approved SPA,SPA holder,Original,Notary Public or Pakistan Mission + Foreign Office,1,Rs 100 judicial (if made in Pakistan),Mandatory,,FRM-SPA-SPEC,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,CNIC copies of purchaser and attorney,SPA holder,Copy,,1 each,,Mandatory,,,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Transfer affidavit by seller,Seller,Original,Oath Commissioner,1,Rs 20 (Islamabad) / Rs 50 (Rawalpindi),Mandatory,,FRM-AFF-SELLER,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Undertaking by purchaser,Purchaser / SPA holder,Original,Oath Commissioner,1,Rs 20 (Islamabad) / Rs 50 (Rawalpindi),Mandatory,,FRM-UND-PURCHASER,12.-SPA-Transfer-Procedure.doc,current
+PRC-TFR-SPA,spa,Agreement to sell plot,Seller and SPA holder,Original,DHA,1,"Rs 100 (Islamabad) / Rs 1,200 (Rawalpindi)",Mandatory,,FRM-AGR-SELL,12.-SPA-Transfer-Procedure.doc,current
+PRC-DUES-NDC,,Request for statement of dues (2022 format) with transfer type ticked,Seller,Original,,1,,Mandatory,,FRM-DUES-REQ,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Copy of allotment / allocation letter or intimation letter,Seller,Copy,,1,,Mandatory,,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Attested CNIC copies of seller and purchaser,"Seller, purchaser",Copy,,1 each,,Mandatory,,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Authority letter in favour of purchaser / registered dealer,Seller,Original,,1,,Conditional,If dealer/purchaser collects,FRM-AUTH-DUES,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Copy of DHAI registered dealer card,Dealer,Copy,,1,,Conditional,If through dealer,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Utility bill clearance from Adm Dte,Seller,Original,,1,,Conditional,Constructed property,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Latest paid maintenance bill,Seller,Copy,,1,,Conditional,Constructed property,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,House / plaza completion certificate copy,Seller,Copy,,1,,Conditional,Constructed property,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,DHAI-R approval letter,Seller,Copy,,1,,Conditional,Legal heir / GPA / outstation transfer,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,NOC from W&R,Seller,Original,,1,,Conditional,GHQ-allotted plots,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,NOC from EMAAR / AGGPL,Seller,Original,,1,,Conditional,If applicable,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Original paid dues challan (record copy),Seller,Original,,1,,Mandatory,For NDC request,FRM-NDC-REQ,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,CPR of advance tax u/s 236C and 236K and PSID,Seller / purchaser,Copy,,1,,Conditional,If applicable (filer status),,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Stamp duty challan and stamp papers (original),Purchaser,Original,,1,,Conditional,DHA Rawalpindi only,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Passport copy,Overseas party,Copy,,1,,Conditional,NICOP / POC holders,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-DUES-NDC,,Verified deposit slip of transfer dues,Seller,Original,,1,,Conditional,DHA Valley projects,,Request_for_Statement_of_Dues_2022.pdf; Request_for_NDC_2022.pdf,current
+PRC-AL-DUP,,Application for duplicate allotment letter,Member,Original,,1,,Mandatory,,,5.-Duplicate-Allotment-Letter-Procedure.docx,current
+PRC-AL-DUP,,Affidavit for loss of allotment letter,Member,Original,Oath Commissioner,1,Rs 20 (Islamabad) / Rs 50 (Rawalpindi),Mandatory,,FRM-AL-DUP-SPEC,5.-Duplicate-Allotment-Letter-Procedure.docx,current
+PRC-AL-DUP,,Processing fee draft / pay order in name of DHA Islamabad,Member,Original,,1,,Mandatory,,,5.-Duplicate-Allotment-Letter-Procedure.docx,current
+PRC-AL-DUP,,"Newspaper cuttings of loss advertisement (1 English, 1 Urdu)",Member,Original,,2,,Mandatory,,,5.-Duplicate-Allotment-Letter-Procedure.docx,current
+PRC-AL-DUP,,Membership form signed with thumb impression,Member,Original,,1,,Mandatory,,FRM-MS,5.-Duplicate-Allotment-Letter-Procedure.docx,current
+PRC-AL-DUP,,2 coloured photographs,Member,Original,,2,,Mandatory,,,5.-Duplicate-Allotment-Letter-Procedure.docx,current
+PRC-AL-DUP,,Attested CNIC copies of owner and NOK,Member,Copy,,1 each,,Mandatory,,,5.-Duplicate-Allotment-Letter-Procedure.docx,current
+PRC-LIEN,,Written request for NOC/NEC naming bank and branch,Owner,Original,,1,,Mandatory,,,14.-NOC-NEC-Lien-Marking-Procedure.doc,current
+PRC-LIEN,,Original allotment letter,Owner,Original,,1,,Mandatory,,,14.-NOC-NEC-Lien-Marking-Procedure.doc,current
+PRC-LIEN,,Photocopy of mortgage deed attested by bank,Bank,Copy,Bank,1,,Mandatory,,,14.-NOC-NEC-Lien-Marking-Procedure.doc,current
+PRC-LIEN,,Request letter from bank for lien marking,Bank,Original,,1,,Mandatory,,,14.-NOC-NEC-Lien-Marking-Procedure.doc,current
+PRC-LIEN,,Pay order / bank draft for NOC and lien marking fee,Owner,Original,,1,,Mandatory,,,14.-NOC-NEC-Lien-Marking-Procedure.doc,current
+PRC-AL-COLLECT,,Original CNIC of receiver,Receiver,Original,,1,,Mandatory,,,4.-Collection-of-Allotment-Procedure.pdf,current
+PRC-AL-COLLECT,,Original transfer slip,Receiver,Original,,1,,Mandatory,,,4.-Collection-of-Allotment-Procedure.pdf,current
+PRC-AL-COLLECT,,Authority letter,Member,Original,,1,,Conditional,If someone else collects,FRM-AUTH-AL,4.-Collection-of-Allotment-Procedure.pdf,current
+PRC-AL-COLLECT,,Risk certificate and written request,Member,Original,,1,,Conditional,If sent by courier,FRM-RISK-CERT,4.-Collection-of-Allotment-Procedure.pdf,current
+PRC-AL-COLLECT,,Fee receipt / pay order,Member,Original,,1,,Conditional,Courier or authority letter,,4.-Collection-of-Allotment-Procedure.pdf,current
+PRC-VALLEY-FILEOPEN,,Application for file opening,Allottee,Original,,1,,Mandatory,,,FILE-OPENING-PROCEDURE-jul2018.docx,current
+PRC-VALLEY-FILEOPEN,,2 passport photos of owner,Allottee,Original,,2,,Mandatory,,,FILE-OPENING-PROCEDURE-jul2018.docx,current
+PRC-VALLEY-FILEOPEN,,CNIC copies of owner and NOK,Allottee,Copy,,1 each,,Mandatory,,,FILE-OPENING-PROCEDURE-jul2018.docx,current
+PRC-VALLEY-FILEOPEN,,Membership form,Allottee,Original,,1,,Mandatory,,FRM-MS,FILE-OPENING-PROCEDURE-jul2018.docx,current
+PRC-VALLEY-FILEOPEN,,Clear copies of all paid amounts (for Finance verification),Allottee,Copy,,1,,Mandatory,,,FILE-OPENING-PROCEDURE-jul2018.docx,current
+PRC-VALLEY-FILEOPEN,,File opening fee receipt verified by Customer Support & Operations Ph-V,Allottee,Copy,,1,,Mandatory,,,FILE-OPENING-PROCEDURE-jul2018.docx,current
+PRC-VALLEY-CONVERT,,Application for issuance of allotment letter against allotment certificate,Owner,Original,,1,,Mandatory,,FRM-VALLEY-CONVERT,FILE-CONVERSION-ISSUANCE-OF-ALMT-LTR-AGAINST-ALMT-CERT-FILE-jul2018.docx; REQUEST_FOR_CONVERSION_OF_ALLOTMENT_CERTIFICATE_INTO_ALLOTMENT_LETTER.pdf,current
+PRC-VALLEY-CONVERT,,Original allotment certificate,Owner,Original,,1,,Mandatory,,,FILE-CONVERSION-ISSUANCE-OF-ALMT-LTR-AGAINST-ALMT-CERT-FILE-jul2018.docx; REQUEST_FOR_CONVERSION_OF_ALLOTMENT_CERTIFICATE_INTO_ALLOTMENT_LETTER.pdf,current
+PRC-VALLEY-CONVERT,,Membership form,Owner,Original,,1,,Mandatory,,FRM-MS,FILE-CONVERSION-ISSUANCE-OF-ALMT-LTR-AGAINST-ALMT-CERT-FILE-jul2018.docx; REQUEST_FOR_CONVERSION_OF_ALLOTMENT_CERTIFICATE_INTO_ALLOTMENT_LETTER.pdf,current
+PRC-VALLEY-CONVERT,,Finance Dte clearance note with stamp duty,Owner,Original,,1,,Mandatory,,,FILE-CONVERSION-ISSUANCE-OF-ALMT-LTR-AGAINST-ALMT-CERT-FILE-jul2018.docx; REQUEST_FOR_CONVERSION_OF_ALLOTMENT_CERTIFICATE_INTO_ALLOTMENT_LETTER.pdf,current
+PRC-VALLEY-CONVERT,,Undertaking by purchaser regarding taxes/dues,Owner,Original,Oath Commissioner,1,Rs 50,Mandatory,,,FILE-CONVERSION-ISSUANCE-OF-ALMT-LTR-AGAINST-ALMT-CERT-FILE-jul2018.docx; REQUEST_FOR_CONVERSION_OF_ALLOTMENT_CERTIFICATE_INTO_ALLOTMENT_LETTER.pdf,current
+PRC-VALLEY-CONVERT,,CNIC copies of owner and NOK,Owner,Copy,,1 each,,Mandatory,,,FILE-CONVERSION-ISSUANCE-OF-ALMT-LTR-AGAINST-ALMT-CERT-FILE-jul2018.docx; REQUEST_FOR_CONVERSION_OF_ALLOTMENT_CERTIFICATE_INTO_ALLOTMENT_LETTER.pdf,current
+PRC-VALLEY-CONVERT,,2 coloured photographs,Owner,Original,,2,,Mandatory,,,FILE-CONVERSION-ISSUANCE-OF-ALMT-LTR-AGAINST-ALMT-CERT-FILE-jul2018.docx; REQUEST_FOR_CONVERSION_OF_ALLOTMENT_CERTIFICATE_INTO_ALLOTMENT_LETTER.pdf,current
+PRC-POSSESSION,,Possession / demarcation application form,Member,Original,,2,,Mandatory,,FRM-POSSESSION,FAQs page; Byelaws Anx D,current
+PRC-POSSESSION,,Deposit slip for site plan / possession fee,Member,Copy,,1,,Mandatory,,,FAQs page; Byelaws Anx D,current
+PRC-POSSESSION,,Copy of CNIC,Member,Copy,,1,,Mandatory,,,FAQs page; Byelaws Anx D,current
+PRC-POSSESSION,,Copy of allotment letter,Member,Copy,,1,,Mandatory,,,FAQs page; Byelaws Anx D,current
+PRC-CONSTRUCTION,drawing_approval,Application form for drawing approval,Owner,Original,,1,,Mandatory,,FRM-DRAWING-APP,"Byelaws Anx D, Anx G",current
+PRC-CONSTRUCTION,drawing_approval,NOC verified from Transfer & Record and Finance Dte,Owner,Copy,,1,,Mandatory,,,"Byelaws Anx D, Anx G",current
+PRC-CONSTRUCTION,drawing_approval,Submission drawings (ammonia print) stamped by registered architect + soft copy (AutoCAD),Architect,Original,,3,,Mandatory,,,"Byelaws Anx D, Anx G",current
+PRC-CONSTRUCTION,drawing_approval,Structure drawings (A3) + structure stability certificate by registered structure engineer,Structure engineer,Original,,1,,Mandatory,,,"Byelaws Anx D, Anx G",current
+PRC-CONSTRUCTION,drawing_approval,Soil / bearing capacity test report,Soil test lab,Original,,1,,Mandatory,,,"Byelaws Anx D, Anx G",current
+PRC-CONSTRUCTION,drawing_approval,3D isometric front colour view,Architect,Original,,1,,Mandatory,,,"Byelaws Anx D, Anx G",current
+PRC-CONSTRUCTION,drawing_approval,"Copies of allotment letter, site plan, CNIC",Owner,Copy,,1,,Mandatory,,,"Byelaws Anx D, Anx G",current
+PRC-CONSTRUCTION,drawing_approval,"Undertakings by owner, architect and structure engineer; flag/banner undertaking (Anx V)",Owner / professionals,Original,,1,,Mandatory,,,"Byelaws Anx D, Anx G",current
+PRC-CONSTRUCTION,drawing_approval,Irrevocable undertaking for residential construction (Anx F),Owner,Original,Oath Commissioner,1,Rs 500,Mandatory,,FRM-UND-IRREVOCABLE,"Byelaws Anx D, Anx G",current
+PRC-CONSTRUCTION,drawing_approval,Attorney certificate,Attorney,Copy,,1,,Conditional,If applicable,,"Byelaws Anx D, Anx G",current
+PRC-ETAG,resident,E-Tag registration form (one per vehicle) with 1x1 photo,Applicant,Original,,1,,Mandatory,,FRM-ETAG-RES,DHA_resident.pdf,current
+PRC-ETAG,resident,CNIC,Applicant,Copy,,1,,Mandatory,,,DHA_resident.pdf,current
+PRC-ETAG,resident,Last paid DHA maintenance bill,Applicant,Copy,,1,,Conditional,Not for Sector F Ph-I and Askari Towers,,DHA_resident.pdf,current
+PRC-ETAG,resident,NOC for tenancy,Tenant,Copy,,1,,Conditional,Tenants,,DHA_resident.pdf,current
+PRC-ETAG,resident,Vehicle registration (in name of resident or family member residing in DHA); original shown at registration,Applicant,Copy + original for verification,,1,,Mandatory,,,DHA_resident.pdf,current
+PRC-ETAG,resident,Authority letter for company / bank leased vehicle,Applicant,Original,,1,,Conditional,Leased vehicles,,DHA_resident.pdf,current
+PRC-ETAG,resident,Valid driving licence,Applicant,Copy,,1,,Mandatory,,,DHA_resident.pdf,current
+PRC-SERVANT-PASS,,Application for pass,House owner / tenant,Original,,1,,Mandatory,,FRM-SERVANT-PASS,Application_for_Pass_Servant_Maid_and_Dvrs_Revised.pdf,current
+PRC-SERVANT-PASS,,CNIC of applicant / allotment letter of property,Applicant,Copy,,1,,Mandatory,,,Application_for_Pass_Servant_Maid_and_Dvrs_Revised.pdf,current
+PRC-SERVANT-PASS,,Rent agreement,Tenant,Copy,,1,,Conditional,Tenants,,Application_for_Pass_Servant_Maid_and_Dvrs_Revised.pdf,current
+PRC-SERVANT-PASS,,CNIC or Form B of employee,Employee,Copy,,1,,Mandatory,,,Application_for_Pass_Servant_Maid_and_Dvrs_Revised.pdf,current
+PRC-SERVANT-PASS,,Photographs of employee (1x1),Employee,Original,,3,,Mandatory,,,Application_for_Pass_Servant_Maid_and_Dvrs_Revised.pdf,current
+PRC-SERVANT-PASS,,Document set registered at police station (Morgah / Sihala),Applicant,Original,Police Station stamp,1,,Mandatory,,,Application_for_Pass_Servant_Maid_and_Dvrs_Revised.pdf,current
+PRC-SERVANT-PASS,,Driving licence,Driver,Copy,,1,,Conditional,Drivers,,Application_for_Pass_Servant_Maid_and_Dvrs_Revised.pdf,current
+PRC-RENT-NOC,house,NOC form - renting of house/portion/flat,Owner,Original,,1,,Mandatory,,FRM-NOC-RENT-HOUSE,NOC_Form_-_Security_Dte.pdf,current
+PRC-RENT-NOC,house,CNIC of tenant and owner,Owner / tenant,Copy,,1 each,,Mandatory,,,NOC_Form_-_Security_Dte.pdf,current
+PRC-RENT-NOC,house,Rent agreement,Owner / tenant,Copy,,1,,Mandatory,Female tenant accepted only if no male family member above 18,,NOC_Form_-_Security_Dte.pdf,current
+PRC-RENT-NOC,house,DHA allotment letter,Owner,Copy,,1,,Mandatory,,,NOC_Form_-_Security_Dte.pdf,current
+PRC-RENT-NOC,house,Attested power of attorney,Attorney,Copy,,1,,Conditional,If owner gave power of attorney,,NOC_Form_-_Security_Dte.pdf,current
+PRC-RENT-NOC,house,Police verification form of tenant,Tenant,Original,Police,1,,Mandatory,,FRM-POLICE-VERIF-PROP,NOC_Form_-_Security_Dte.pdf,current
+PRC-RENT-NOC,commercial,NOC form - renting of plaza/floor/shop,Owner,Original,,1,,Mandatory,,FRM-NOC-RENT-COM,NOC_Form_-_Renting_of_Commercial_Unit.pdf,current
+PRC-RENT-NOC,commercial,CNIC of tenant and owner,Owner / tenant,Copy,,1 each,,Mandatory,,,NOC_Form_-_Renting_of_Commercial_Unit.pdf,current
+PRC-RENT-NOC,commercial,Rent agreement,Owner / tenant,Copy,,1,,Mandatory,,,NOC_Form_-_Renting_of_Commercial_Unit.pdf,current
+PRC-RENT-NOC,commercial,Building Control occupation permission letter or DHA allotment letter,Owner,Copy,,1,,Mandatory,,,NOC_Form_-_Renting_of_Commercial_Unit.pdf,current
+PRC-RENT-NOC,commercial,Attested power of attorney,Attorney,Copy,,1,,Conditional,If applicable,,NOC_Form_-_Renting_of_Commercial_Unit.pdf,current
+PRC-RENT-NOC,commercial,Police verification form of tenant,Tenant,Original,Police,1,,Mandatory,,FRM-POLICE-VERIF-PROP,NOC_Form_-_Renting_of_Commercial_Unit.pdf,current
+PRC-RENT-NOC,commercial,Business approval by BD Dte,Owner,Endorsement,BD Dte,1,,Mandatory,,,NOC_Form_-_Renting_of_Commercial_Unit.pdf,current
+PRC-BURIAL,,Burial form (Annex A),NOK,Original,,1,,Mandatory,,,SOPBurialNormal-26-1-2021.pdf,current
+PRC-BURIAL,,CNIC of deceased,NOK,Copy,,1,,Mandatory,,,SOPBurialNormal-26-1-2021.pdf,current
+PRC-BURIAL,,CNIC of NOK,NOK,Copy,,1,,Mandatory,,,SOPBurialNormal-26-1-2021.pdf,current
+PRC-BURIAL,,Occupancy / allotment letter / utility bill,NOK,Copy,,1,,Mandatory,,,SOPBurialNormal-26-1-2021.pdf,current
+PRC-BURIAL,,Death certificate,NOK,Copy,,1,,Mandatory,,,SOPBurialNormal-26-1-2021.pdf,current
+PRC-BURIAL,,Affidavit of relationship,NOK,Original,,1,,Conditional,If relationship cannot be shown by CNIC,,SOPBurialNormal-26-1-2021.pdf,current

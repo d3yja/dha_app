@@ -1,0 +1,31 @@
+﻿rule_id,service_id,rule,applies_to,allowed,exception,reference,status
+ELG-01,SVC-TFR-GPA,Transfer through GPA is allowed only if the owner lives abroad and cannot come in person,Sellers,Yes - owner abroad only,Local GPAs are not entertained,11.-GPA-Transfer-Procedure.doc,current
+ELG-02,SVC-TFR-SPA,"SPA transfer allowed when purchaser is in Pakistan but must leave before transfer, or purchaser is abroad; plot is transferred in actual purchaser's name",Purchasers,Yes,,12.-SPA-Transfer-Procedure.doc,current
+ELG-03,SVC-TFR-OUTSTN,Out-station transfer available to any member subject to transfer policy; reduced fee for disabled and senior citizens 65+,Members,Yes,"Travel, boarding and lodging of team borne by member",Out-Sta-Tfr-6th-aug-2026.pdf,current
+ELG-04,SVC-TFR-NORMAL,Physical presence of seller and purchaser is required for transfer,"Sellers, purchasers",Required,"Out-station, GPA or SPA routes",7.-All-Transfer-Procedure.doc,current
+ELG-05,SVC-TFR-NORMAL,A separate membership (and fee) is required for every plot and every phase,Purchasers,Required,,"FAQs page (Inquiry 8, 11)",current
+ELG-06,SVC-TFR-NORMAL,Serving defence officers and serving DHA employees get 50% membership fee concession; civilian rates if they buy from the market,"Serving defence officers, DHA employees",Concession,Buying from the market,SOC 2022,current
+ELG-07,SVC-TFR-NORMAL,"Payments accepted only by pay order / bank draft / bank deposit; no cash, no cheques, no out-station pay orders",All,No cash/cheque,,7.-All-Transfer-Procedure.doc; FAQs page,current
+ELG-08,SVC-VALLEY-FILEOPEN,Physical presence of allottee is mandatory to collect allotment certificate / open file,Valley allottees,Required,,FILE-OPENING-PROCEDURE-jul2018.docx,current
+ELG-09,SVC-VALLEY-ENDORSE,Physical presence of allottee is mandatory for endorsement of allotment certificate,Valley allottees,Required,,6.-Allotment-Certificate-Name-Endorsement-Procedure.docx,current
+ELG-10,SVC-AMALGAMATION,"De-amalgamation only after amalgamation; residential plots not divided below 2 kanal, commercial not below 8 marla",Owners,Restricted,,SOC 2022,current
+ELG-11,SVC-BURIAL,"Eligible: residents owning residential property in DHA, spouse, children, dependent parents/grandparents, dependent children and daughters-in-law, dependent grandchildren, dependent unmarried sisters, and tenants with dependents","Residents, tenants",Yes,Members owning only a plot (not residing) are NOT eligible,SOPBurialNormal-26-1-2021.pdf,current
+ELG-12,SVC-RENT-NOC-HOUSE,Rent agreement with a female tenant accepted only if no male family member is above 18,Female tenants,Conditional,,NOC_Form_-_Security_Dte.pdf,current
+ELG-13,SVC-RENT-NOC-HOUSE,Owner is responsible for tenant's compliance; utilities may be discontinued for violations,Landlords,Condition,,NOC_Form_-_Security_Dte.pdf,current
+ELG-14,SVC-ETAG-RES,Vehicle must be registered in the name of the resident or a family member residing in DHA (leased vehicles need authority letter),Residents,Conditional,Company / bank leased vehicles,DHA_resident.pdf,current
+ELG-15,SVC-ETAG-VISITOR,Vehicle must be registered in applicant's name; no cargo vehicles; tag not reissued if expired/damaged tag not returned,Visitors,Conditional,,ex_bharia.pdf,current
+ELG-16,SVC-ETAG-NONRES,"Only serving or retired officers of Army, Air Force, Navy, CAF who are not DHA residents",Officers,Yes,,non_resident.pdf,current
+ELG-17,SVC-CCTV,CCTV recording cannot be used as evidence in court or in print media; handed over via Security Office representative; applicant provides USB,Residents,Conditional,,Application-Form-for-CCTV-Recording-F-D.docx,current
+ELG-18,SVC-SOLAR,"Solar panels must be installed by a DHAI-R registered solar firm with 3D design, site visit and BC approval; stability certificate mandatory",Owners,Conditional,,Other Activities page; Crateira-Solar-Firms.docx,current
+ELG-19,SVC-CONTRACTOR-SEC,Contractor registration with security clearance is mandatory before construction of any residential building,"Owners, contractors",Required,Self-construction permission,Other Activities page; Byelaws 15.7.13,current
+ELG-20,SVC-DRAWING,Drawings must be prepared by DHAI-R registered architect and structure engineer,Owners,Required,,Byelaws Anx D,current
+ELG-21,SVC-DEMARCATION,No excavation / demarcation for new construction during monsoon (15 Jul - 15 Sep),Owners,Not allowed in period,,Other Activities page; Byelaws 8.19,current
+ELG-22,SVC-COMPLETION,Houses with religious / sectarian / political flags (other than national flag) will not be cleared for completion,Owners,Blocked,,Other Activities page,current
+ELG-23,SVC-PROF-REG,"Architect: M.Arch, or B.Arch from top-10 Pakistani university; PCATP registration; min 5 years experience",Architects,Criteria,,architect-Criteria_nBq0w8s.docx,current
+ELG-24,SVC-PROF-REG,MEP engineer: BSc/MSc Mechanical/Electrical; PEC or equivalent registration; 15 years experience,MEP engineers,Criteria,,mep-crateria_XGSsLxd.docx,current
+ELG-25,SVC-PROF-REG,Vetting engineer: MSc Structure; PEC registration as consultant,Vetting engineers,Criteria,,vetting-engr-Criteria.docx,current
+ELG-26,SVC-PROF-REG,Soil test lab: at least 1 Geologist/Geotech engineer (MSc) with 5 years experience; PEC registration as soil investigation firm,Soil test labs,Criteria,,soil-testing-crateria.docx,current
+ELG-27,SVC-PROF-REG,Solar firm: established office; PEC registered; income & sales tax registered; 3 years in business; ~20 installations in 3 years; NEPRA & AEDB certificates,Solar firms,Criteria,,Crateira-Solar-Firms.docx,current
+ELG-28,SVC-PROF-REG,Structure engineer criteria (see form),Structure engineers,Criteria,,structure-engr-Criteria_llMxHmq.docx,needs_confirmation
+ELG-29,SVC-STICKER,Car sticker: vehicle used by family; must be removed and returned on sale/expiry,Residents,Condition,,Flag-A.doc,current
+ELG-30,SVC-PET-REG,Dogs must be registered with DHA; dangerous dogs out only at prescribed timings and on leash,Pet owners,Required,,Byelaws 15.4.6 - 15.4.8,current
